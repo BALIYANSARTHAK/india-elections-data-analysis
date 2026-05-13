@@ -1,0 +1,2021 @@
+Year,Party,State,Seats_Won,Vote_Share,Voter_Turnout,Total_Seats_National,National_Vote_Share,Party_Full
+1951,INC,Uttar Pradesh,61,47.7,48.02,364,45.0,Indian National Congress (INC)
+1951,INC,Maharashtra,47,42.94,42.26,364,45.0,Indian National Congress (INC)
+1951,INC,West Bengal,18,47.2,46.71,364,45.0,Indian National Congress (INC)
+1951,INC,Bihar,40,42.12,50.4,364,45.0,Indian National Congress (INC)
+1951,INC,Tamil Nadu,39,43.27,42.52,364,45.0,Indian National Congress (INC)
+1951,INC,Madhya Pradesh,16,43.83,45.95,364,45.0,Indian National Congress (INC)
+1951,INC,Rajasthan,20,43.75,46.82,364,45.0,Indian National Congress (INC)
+1951,INC,Karnataka,14,43.75,44.36,364,45.0,Indian National Congress (INC)
+1951,INC,Andhra Pradesh,21,46.71,42.7,364,45.0,Indian National Congress (INC)
+1951,INC,Gujarat,23,45.55,41.16,364,45.0,Indian National Congress (INC)
+1951,INC,Odisha,21,43.02,41.35,364,45.0,Indian National Congress (INC)
+1951,INC,Telangana,17,47.79,48.78,364,45.0,Indian National Congress (INC)
+1951,INC,Kerala,13,42.59,47.54,364,45.0,Indian National Congress (INC)
+1951,INC,Jharkhand,11,42.73,45.65,364,45.0,Indian National Congress (INC)
+1951,INC,Assam,5,47.46,43.29,364,45.0,Indian National Congress (INC)
+1951,INC,Punjab,13,43.87,45.9,364,45.0,Indian National Congress (INC)
+1951,INC,Chhattisgarh,10,43.11,50.4,364,45.0,Indian National Congress (INC)
+1951,INC,Haryana,10,47.64,49.65,364,45.0,Indian National Congress (INC)
+1951,INC,Uttarakhand,4,47.53,41.58,364,45.0,Indian National Congress (INC)
+1951,INC,Delhi,4,42.27,43.95,364,45.0,Indian National Congress (INC)
+1951,CPI,Uttar Pradesh,2,1.93,48.99,16,3.3,Communist Party of India
+1951,CPI,Maharashtra,1,1.99,46.13,16,3.3,Communist Party of India
+1951,CPI,West Bengal,0,5.11,41.45,16,3.3,Communist Party of India
+1951,CPI,Bihar,2,4.93,42.69,16,3.3,Communist Party of India
+1951,CPI,Tamil Nadu,0,5.19,47.77,16,3.3,Communist Party of India
+1951,CPI,Madhya Pradesh,1,4.93,41.44,16,3.3,Communist Party of India
+1951,CPI,Rajasthan,0,1.0,49.33,16,3.3,Communist Party of India
+1951,CPI,Karnataka,1,2.29,41.34,16,3.3,Communist Party of India
+1951,CPI,Andhra Pradesh,0,2.25,48.0,16,3.3,Communist Party of India
+1951,CPI,Gujarat,1,5.62,45.42,16,3.3,Communist Party of India
+1951,CPI,Odisha,0,4.58,48.31,16,3.3,Communist Party of India
+1951,CPI,Telangana,0,4.93,45.64,16,3.3,Communist Party of India
+1951,CPI,Kerala,0,2.87,40.95,16,3.3,Communist Party of India
+1951,CPI,Jharkhand,0,0.49,47.06,16,3.3,Communist Party of India
+1951,CPI,Assam,0,3.35,49.78,16,3.3,Communist Party of India
+1951,CPI,Punjab,0,2.76,48.26,16,3.3,Communist Party of India
+1951,CPI,Chhattisgarh,0,0.76,43.6,16,3.3,Communist Party of India
+1951,CPI,Haryana,0,5.88,48.78,16,3.3,Communist Party of India
+1951,CPI,Uttarakhand,0,5.53,48.74,16,3.3,Communist Party of India
+1951,CPI,Delhi,0,5.66,46.09,16,3.3,Communist Party of India
+1951,HMSP,Uttar Pradesh,1,6.78,43.88,4,4.4,Hindu Mahasabha
+1951,HMSP,Maharashtra,0,2.77,44.97,4,4.4,Hindu Mahasabha
+1951,HMSP,West Bengal,0,6.56,40.77,4,4.4,Hindu Mahasabha
+1951,HMSP,Bihar,0,3.9,42.92,4,4.4,Hindu Mahasabha
+1951,HMSP,Tamil Nadu,0,3.43,50.13,4,4.4,Hindu Mahasabha
+1951,HMSP,Madhya Pradesh,0,4.51,47.73,4,4.4,Hindu Mahasabha
+1951,HMSP,Rajasthan,0,7.23,50.32,4,4.4,Hindu Mahasabha
+1951,HMSP,Karnataka,0,4.38,43.71,4,4.4,Hindu Mahasabha
+1951,HMSP,Andhra Pradesh,0,1.62,46.8,4,4.4,Hindu Mahasabha
+1951,HMSP,Gujarat,0,1.71,43.49,4,4.4,Hindu Mahasabha
+1951,HMSP,Odisha,0,2.84,42.15,4,4.4,Hindu Mahasabha
+1951,HMSP,Telangana,0,7.31,43.12,4,4.4,Hindu Mahasabha
+1951,HMSP,Kerala,0,5.97,43.08,4,4.4,Hindu Mahasabha
+1951,HMSP,Jharkhand,0,3.61,47.02,4,4.4,Hindu Mahasabha
+1951,HMSP,Assam,0,4.61,41.6,4,4.4,Hindu Mahasabha
+1951,HMSP,Punjab,0,3.32,42.57,4,4.4,Hindu Mahasabha
+1951,HMSP,Chhattisgarh,0,4.95,47.48,4,4.4,Hindu Mahasabha
+1951,HMSP,Haryana,0,4.47,42.96,4,4.4,Hindu Mahasabha
+1951,HMSP,Uttarakhand,0,2.45,47.61,4,4.4,Hindu Mahasabha
+1951,HMSP,Delhi,0,7.02,42.08,4,4.4,Hindu Mahasabha
+1951,Others,Uttar Pradesh,13,44.98,49.95,85,47.3,Other Parties
+1951,Others,Maharashtra,14,45.85,47.3,85,47.3,Other Parties
+1951,Others,West Bengal,11,47.63,46.0,85,47.3,Other Parties
+1951,Others,Bihar,5,44.86,49.67,85,47.3,Other Parties
+1951,Others,Tamil Nadu,11,48.1,44.09,85,47.3,Other Parties
+1951,Others,Madhya Pradesh,5,48.66,49.67,85,47.3,Other Parties
+1951,Others,Rajasthan,7,48.98,47.12,85,47.3,Other Parties
+1951,Others,Karnataka,3,45.27,49.69,85,47.3,Other Parties
+1951,Others,Andhra Pradesh,5,44.36,41.71,85,47.3,Other Parties
+1951,Others,Gujarat,6,44.33,42.31,85,47.3,Other Parties
+1951,Others,Odisha,4,48.45,47.22,85,47.3,Other Parties
+1951,Others,Telangana,2,48.57,43.07,85,47.3,Other Parties
+1951,Others,Kerala,3,48.78,47.2,85,47.3,Other Parties
+1951,Others,Jharkhand,4,48.25,46.38,85,47.3,Other Parties
+1951,Others,Assam,1,46.51,43.35,85,47.3,Other Parties
+1951,Others,Punjab,1,50.14,44.63,85,47.3,Other Parties
+1951,Others,Chhattisgarh,3,48.09,48.65,85,47.3,Other Parties
+1951,Others,Haryana,2,47.76,45.63,85,47.3,Other Parties
+1951,Others,Uttarakhand,0,48.63,43.51,85,47.3,Other Parties
+1951,Others,Delhi,0,48.17,42.47,85,47.3,Other Parties
+1957,INC,Uttar Pradesh,80,50.52,51.85,371,47.8,Indian National Congress (INC)
+1957,INC,Maharashtra,36,44.89,51.98,371,47.8,Indian National Congress (INC)
+1957,INC,West Bengal,34,50.6,52.34,371,47.8,Indian National Congress (INC)
+1957,INC,Bihar,40,46.57,46.55,371,47.8,Indian National Congress (INC)
+1957,INC,Tamil Nadu,39,46.7,44.39,371,47.8,Indian National Congress (INC)
+1957,INC,Madhya Pradesh,27,50.42,49.66,371,47.8,Indian National Congress (INC)
+1957,INC,Rajasthan,23,45.38,48.85,371,47.8,Indian National Congress (INC)
+1957,INC,Karnataka,28,45.64,47.88,371,47.8,Indian National Congress (INC)
+1957,INC,Andhra Pradesh,25,49.24,49.67,371,47.8,Indian National Congress (INC)
+1957,INC,Gujarat,26,46.96,45.64,371,47.8,Indian National Congress (INC)
+1957,INC,Odisha,21,49.66,51.37,371,47.8,Indian National Congress (INC)
+1957,INC,Telangana,17,47.87,47.72,371,47.8,Indian National Congress (INC)
+1957,INC,Kerala,20,48.7,49.72,371,47.8,Indian National Congress (INC)
+1957,INC,Jharkhand,14,50.14,46.08,371,47.8,Indian National Congress (INC)
+1957,INC,Assam,10,45.36,48.48,371,47.8,Indian National Congress (INC)
+1957,INC,Punjab,5,47.59,48.13,371,47.8,Indian National Congress (INC)
+1957,INC,Chhattisgarh,7,48.34,43.01,371,47.8,Indian National Congress (INC)
+1957,INC,Haryana,4,49.74,46.3,371,47.8,Indian National Congress (INC)
+1957,INC,Uttarakhand,2,47.93,50.4,371,47.8,Indian National Congress (INC)
+1957,INC,Delhi,4,48.54,43.55,371,47.8,Indian National Congress (INC)
+1957,CPI,Uttar Pradesh,2,9.09,48.11,27,8.9,Communist Party of India
+1957,CPI,Maharashtra,3,10.26,52.46,27,8.9,Communist Party of India
+1957,CPI,West Bengal,2,7.84,50.65,27,8.9,Communist Party of India
+1957,CPI,Bihar,1,8.53,43.48,27,8.9,Communist Party of India
+1957,CPI,Tamil Nadu,1,11.68,51.06,27,8.9,Communist Party of India
+1957,CPI,Madhya Pradesh,2,8.35,44.43,27,8.9,Communist Party of India
+1957,CPI,Rajasthan,0,7.4,48.19,27,8.9,Communist Party of India
+1957,CPI,Karnataka,2,9.86,45.5,27,8.9,Communist Party of India
+1957,CPI,Andhra Pradesh,2,10.33,48.24,27,8.9,Communist Party of India
+1957,CPI,Gujarat,1,8.42,45.18,27,8.9,Communist Party of India
+1957,CPI,Odisha,1,10.45,42.84,27,8.9,Communist Party of India
+1957,CPI,Telangana,0,6.18,43.11,27,8.9,Communist Party of India
+1957,CPI,Kerala,1,10.12,47.44,27,8.9,Communist Party of India
+1957,CPI,Jharkhand,0,8.85,47.43,27,8.9,Communist Party of India
+1957,CPI,Assam,0,8.5,46.69,27,8.9,Communist Party of India
+1957,CPI,Punjab,0,9.71,43.15,27,8.9,Communist Party of India
+1957,CPI,Chhattisgarh,0,9.66,47.73,27,8.9,Communist Party of India
+1957,CPI,Haryana,0,9.85,44.33,27,8.9,Communist Party of India
+1957,CPI,Uttarakhand,0,9.75,42.97,27,8.9,Communist Party of India
+1957,CPI,Delhi,0,11.54,48.45,27,8.9,Communist Party of India
+1957,PSP,Uttar Pradesh,3,11.26,47.28,19,10.4,Praja Socialist Party
+1957,PSP,Maharashtra,2,13.05,46.56,19,10.4,Praja Socialist Party
+1957,PSP,West Bengal,2,12.83,44.66,19,10.4,Praja Socialist Party
+1957,PSP,Bihar,0,8.0,42.88,19,10.4,Praja Socialist Party
+1957,PSP,Tamil Nadu,0,11.5,43.41,19,10.4,Praja Socialist Party
+1957,PSP,Madhya Pradesh,1,12.47,42.93,19,10.4,Praja Socialist Party
+1957,PSP,Rajasthan,1,9.09,43.88,19,10.4,Praja Socialist Party
+1957,PSP,Karnataka,1,11.17,51.47,19,10.4,Praja Socialist Party
+1957,PSP,Andhra Pradesh,1,12.22,45.52,19,10.4,Praja Socialist Party
+1957,PSP,Gujarat,0,11.9,50.77,19,10.4,Praja Socialist Party
+1957,PSP,Odisha,1,9.88,46.42,19,10.4,Praja Socialist Party
+1957,PSP,Telangana,1,9.44,52.01,19,10.4,Praja Socialist Party
+1957,PSP,Kerala,1,9.97,50.21,19,10.4,Praja Socialist Party
+1957,PSP,Jharkhand,0,8.02,51.73,19,10.4,Praja Socialist Party
+1957,PSP,Assam,0,12.36,45.9,19,10.4,Praja Socialist Party
+1957,PSP,Punjab,0,9.74,42.81,19,10.4,Praja Socialist Party
+1957,PSP,Chhattisgarh,0,7.95,45.89,19,10.4,Praja Socialist Party
+1957,PSP,Haryana,0,13.1,48.43,19,10.4,Praja Socialist Party
+1957,PSP,Uttarakhand,0,10.09,45.63,19,10.4,Praja Socialist Party
+1957,PSP,Delhi,0,11.44,50.22,19,10.4,Praja Socialist Party
+1957,Others,Uttar Pradesh,16,34.64,43.61,67,32.9,Other Parties
+1957,Others,Maharashtra,7,30.25,48.2,67,32.9,Other Parties
+1957,Others,West Bengal,6,35.23,46.21,67,32.9,Other Parties
+1957,Others,Bihar,3,30.76,50.32,67,32.9,Other Parties
+1957,Others,Tamil Nadu,7,30.51,43.54,67,32.9,Other Parties
+1957,Others,Madhya Pradesh,5,30.34,50.92,67,32.9,Other Parties
+1957,Others,Rajasthan,4,30.39,43.55,67,32.9,Other Parties
+1957,Others,Karnataka,6,32.15,46.41,67,32.9,Other Parties
+1957,Others,Andhra Pradesh,5,35.58,52.56,67,32.9,Other Parties
+1957,Others,Gujarat,5,32.16,43.54,67,32.9,Other Parties
+1957,Others,Odisha,4,33.25,46.94,67,32.9,Other Parties
+1957,Others,Telangana,3,30.57,47.63,67,32.9,Other Parties
+1957,Others,Kerala,1,32.71,43.26,67,32.9,Other Parties
+1957,Others,Jharkhand,1,30.61,49.19,67,32.9,Other Parties
+1957,Others,Assam,2,33.4,52.32,67,32.9,Other Parties
+1957,Others,Punjab,1,31.61,51.39,67,32.9,Other Parties
+1957,Others,Chhattisgarh,1,35.68,42.82,67,32.9,Other Parties
+1957,Others,Haryana,2,30.16,51.61,67,32.9,Other Parties
+1957,Others,Uttarakhand,0,35.86,43.44,67,32.9,Other Parties
+1957,Others,Delhi,1,35.72,47.93,67,32.9,Other Parties
+1962,INC,Uttar Pradesh,77,45.87,54.95,361,44.7,Indian National Congress (INC)
+1962,INC,Maharashtra,46,45.21,59.41,361,44.7,Indian National Congress (INC)
+1962,INC,West Bengal,17,43.39,59.9,361,44.7,Indian National Congress (INC)
+1962,INC,Bihar,40,44.43,56.6,361,44.7,Indian National Congress (INC)
+1962,INC,Tamil Nadu,24,42.83,55.04,361,44.7,Indian National Congress (INC)
+1962,INC,Madhya Pradesh,20,45.2,51.18,361,44.7,Indian National Congress (INC)
+1962,INC,Rajasthan,25,47.62,57.38,361,44.7,Indian National Congress (INC)
+1962,INC,Karnataka,24,43.56,58.54,361,44.7,Indian National Congress (INC)
+1962,INC,Andhra Pradesh,25,42.68,59.51,361,44.7,Indian National Congress (INC)
+1962,INC,Gujarat,26,47.4,57.66,361,44.7,Indian National Congress (INC)
+1962,INC,Odisha,19,44.21,59.73,361,44.7,Indian National Congress (INC)
+1962,INC,Telangana,17,41.97,50.66,361,44.7,Indian National Congress (INC)
+1962,INC,Kerala,14,46.56,60.27,361,44.7,Indian National Congress (INC)
+1962,INC,Jharkhand,7,45.26,54.21,361,44.7,Indian National Congress (INC)
+1962,INC,Assam,14,46.75,58.78,361,44.7,Indian National Congress (INC)
+1962,INC,Punjab,10,44.19,53.13,361,44.7,Indian National Congress (INC)
+1962,INC,Chhattisgarh,4,46.89,58.53,361,44.7,Indian National Congress (INC)
+1962,INC,Haryana,10,47.68,55.95,361,44.7,Indian National Congress (INC)
+1962,INC,Uttarakhand,5,47.37,58.9,361,44.7,Indian National Congress (INC)
+1962,INC,Delhi,4,44.4,51.69,361,44.7,Indian National Congress (INC)
+1962,CPI,Uttar Pradesh,8,10.54,52.69,29,9.9,Communist Party of India
+1962,CPI,Maharashtra,3,10.61,53.98,29,9.9,Communist Party of India
+1962,CPI,West Bengal,1,10.93,55.6,29,9.9,Communist Party of India
+1962,CPI,Bihar,3,10.02,58.92,29,9.9,Communist Party of India
+1962,CPI,Tamil Nadu,2,10.27,59.17,29,9.9,Communist Party of India
+1962,CPI,Madhya Pradesh,1,7.7,50.69,29,9.9,Communist Party of India
+1962,CPI,Rajasthan,2,10.62,57.44,29,9.9,Communist Party of India
+1962,CPI,Karnataka,1,7.72,50.55,29,9.9,Communist Party of India
+1962,CPI,Andhra Pradesh,1,10.44,54.32,29,9.9,Communist Party of India
+1962,CPI,Gujarat,1,12.32,53.88,29,9.9,Communist Party of India
+1962,CPI,Odisha,1,11.6,54.37,29,9.9,Communist Party of India
+1962,CPI,Telangana,1,12.07,59.9,29,9.9,Communist Party of India
+1962,CPI,Kerala,0,12.46,55.32,29,9.9,Communist Party of India
+1962,CPI,Jharkhand,0,9.65,60.2,29,9.9,Communist Party of India
+1962,CPI,Assam,0,8.87,56.73,29,9.9,Communist Party of India
+1962,CPI,Punjab,0,7.36,51.69,29,9.9,Communist Party of India
+1962,CPI,Chhattisgarh,0,7.81,51.79,29,9.9,Communist Party of India
+1962,CPI,Haryana,0,7.99,53.86,29,9.9,Communist Party of India
+1962,CPI,Uttarakhand,0,9.74,57.08,29,9.9,Communist Party of India
+1962,CPI,Delhi,0,8.05,50.81,29,9.9,Communist Party of India
+1962,PSP,Uttar Pradesh,1,5.47,52.17,12,6.8,Praja Socialist Party
+1962,PSP,Maharashtra,0,4.52,55.01,12,6.8,Praja Socialist Party
+1962,PSP,West Bengal,0,5.99,55.43,12,6.8,Praja Socialist Party
+1962,PSP,Bihar,1,4.04,58.39,12,6.8,Praja Socialist Party
+1962,PSP,Tamil Nadu,1,4.29,59.14,12,6.8,Praja Socialist Party
+1962,PSP,Madhya Pradesh,1,4.17,53.17,12,6.8,Praja Socialist Party
+1962,PSP,Rajasthan,0,8.29,52.25,12,6.8,Praja Socialist Party
+1962,PSP,Karnataka,0,6.02,55.25,12,6.8,Praja Socialist Party
+1962,PSP,Andhra Pradesh,0,6.01,55.03,12,6.8,Praja Socialist Party
+1962,PSP,Gujarat,0,4.02,52.92,12,6.8,Praja Socialist Party
+1962,PSP,Odisha,0,9.17,55.52,12,6.8,Praja Socialist Party
+1962,PSP,Telangana,0,4.44,54.87,12,6.8,Praja Socialist Party
+1962,PSP,Kerala,0,5.25,53.09,12,6.8,Praja Socialist Party
+1962,PSP,Jharkhand,0,3.92,53.62,12,6.8,Praja Socialist Party
+1962,PSP,Assam,0,5.76,51.6,12,6.8,Praja Socialist Party
+1962,PSP,Punjab,0,7.36,57.19,12,6.8,Praja Socialist Party
+1962,PSP,Chhattisgarh,0,6.79,51.27,12,6.8,Praja Socialist Party
+1962,PSP,Haryana,0,7.32,57.85,12,6.8,Praja Socialist Party
+1962,PSP,Uttarakhand,0,4.57,53.24,12,6.8,Praja Socialist Party
+1962,PSP,Delhi,0,7.68,56.11,12,6.8,Praja Socialist Party
+1962,SWA,Uttar Pradesh,2,10.82,56.46,18,7.9,Swatantra Party
+1962,SWA,Maharashtra,1,5.51,51.93,18,7.9,Swatantra Party
+1962,SWA,West Bengal,1,5.86,52.27,18,7.9,Swatantra Party
+1962,SWA,Bihar,1,5.94,59.37,18,7.9,Swatantra Party
+1962,SWA,Tamil Nadu,0,8.05,54.5,18,7.9,Swatantra Party
+1962,SWA,Madhya Pradesh,1,5.57,54.38,18,7.9,Swatantra Party
+1962,SWA,Rajasthan,1,10.09,58.57,18,7.9,Swatantra Party
+1962,SWA,Karnataka,0,5.93,57.09,18,7.9,Swatantra Party
+1962,SWA,Andhra Pradesh,1,8.24,56.12,18,7.9,Swatantra Party
+1962,SWA,Gujarat,0,9.52,52.27,18,7.9,Swatantra Party
+1962,SWA,Odisha,0,7.45,55.48,18,7.9,Swatantra Party
+1962,SWA,Telangana,0,5.59,56.51,18,7.9,Swatantra Party
+1962,SWA,Kerala,0,8.39,51.94,18,7.9,Swatantra Party
+1962,SWA,Jharkhand,0,8.1,50.92,18,7.9,Swatantra Party
+1962,SWA,Assam,0,5.71,51.03,18,7.9,Swatantra Party
+1962,SWA,Punjab,0,6.83,58.5,18,7.9,Swatantra Party
+1962,SWA,Chhattisgarh,0,8.99,58.0,18,7.9,Swatantra Party
+1962,SWA,Haryana,0,7.73,54.52,18,7.9,Swatantra Party
+1962,SWA,Uttarakhand,0,10.48,58.71,18,7.9,Swatantra Party
+1962,SWA,Delhi,0,5.65,57.71,18,7.9,Swatantra Party
+1962,Others,Uttar Pradesh,20,28.79,51.06,74,30.7,Other Parties
+1962,Others,Maharashtra,10,31.15,58.82,74,30.7,Other Parties
+1962,Others,West Bengal,4,32.47,52.42,74,30.7,Other Parties
+1962,Others,Bihar,4,28.69,58.55,74,30.7,Other Parties
+1962,Others,Tamil Nadu,7,30.84,53.99,74,30.7,Other Parties
+1962,Others,Madhya Pradesh,7,30.05,58.57,74,30.7,Other Parties
+1962,Others,Rajasthan,4,29.96,55.03,74,30.7,Other Parties
+1962,Others,Karnataka,3,32.19,55.43,74,30.7,Other Parties
+1962,Others,Andhra Pradesh,3,33.1,54.24,74,30.7,Other Parties
+1962,Others,Gujarat,4,33.14,56.64,74,30.7,Other Parties
+1962,Others,Odisha,2,33.34,56.68,74,30.7,Other Parties
+1962,Others,Telangana,2,28.54,58.34,74,30.7,Other Parties
+1962,Others,Kerala,3,30.9,59.34,74,30.7,Other Parties
+1962,Others,Jharkhand,3,28.61,53.52,74,30.7,Other Parties
+1962,Others,Assam,1,32.16,50.74,74,30.7,Other Parties
+1962,Others,Punjab,2,32.27,59.17,74,30.7,Other Parties
+1962,Others,Chhattisgarh,1,32.63,51.51,74,30.7,Other Parties
+1962,Others,Haryana,2,28.46,54.37,74,30.7,Other Parties
+1962,Others,Uttarakhand,1,28.6,52.69,74,30.7,Other Parties
+1962,Others,Delhi,1,32.02,56.81,74,30.7,Other Parties
+1967,INC,Uttar Pradesh,61,41.06,58.82,283,40.8,Indian National Congress (INC)
+1967,INC,Maharashtra,24,38.89,65.38,283,40.8,Indian National Congress (INC)
+1967,INC,West Bengal,28,40.21,60.92,283,40.8,Indian National Congress (INC)
+1967,INC,Bihar,37,38.72,62.16,283,40.8,Indian National Congress (INC)
+1967,INC,Tamil Nadu,24,41.47,56.48,283,40.8,Indian National Congress (INC)
+1967,INC,Madhya Pradesh,25,43.39,61.95,283,40.8,Indian National Congress (INC)
+1967,INC,Rajasthan,19,43.33,63.37,283,40.8,Indian National Congress (INC)
+1967,INC,Karnataka,10,41.26,62.37,283,40.8,Indian National Congress (INC)
+1967,INC,Andhra Pradesh,14,42.22,65.64,283,40.8,Indian National Congress (INC)
+1967,INC,Gujarat,24,40.51,57.43,283,40.8,Indian National Congress (INC)
+1967,INC,Odisha,20,42.83,57.55,283,40.8,Indian National Congress (INC)
+1967,INC,Telangana,15,43.02,61.49,283,40.8,Indian National Congress (INC)
+1967,INC,Kerala,13,40.19,56.85,283,40.8,Indian National Congress (INC)
+1967,INC,Jharkhand,7,42.62,56.35,283,40.8,Indian National Congress (INC)
+1967,INC,Assam,7,40.19,61.67,283,40.8,Indian National Congress (INC)
+1967,INC,Punjab,11,39.88,59.77,283,40.8,Indian National Congress (INC)
+1967,INC,Chhattisgarh,8,40.51,58.55,283,40.8,Indian National Congress (INC)
+1967,INC,Haryana,5,38.65,58.06,283,40.8,Indian National Congress (INC)
+1967,INC,Uttarakhand,3,40.31,65.45,283,40.8,Indian National Congress (INC)
+1967,INC,Delhi,3,41.28,62.62,283,40.8,Indian National Congress (INC)
+1967,CPI,Uttar Pradesh,1,6.08,58.08,23,5.1,Communist Party of India
+1967,CPI,Maharashtra,3,2.99,60.45,23,5.1,Communist Party of India
+1967,CPI,West Bengal,1,8.08,61.32,23,5.1,Communist Party of India
+1967,CPI,Bihar,2,2.5,63.8,23,5.1,Communist Party of India
+1967,CPI,Tamil Nadu,1,7.49,58.35,23,5.1,Communist Party of India
+1967,CPI,Madhya Pradesh,0,2.32,61.02,23,5.1,Communist Party of India
+1967,CPI,Rajasthan,1,2.49,64.06,23,5.1,Communist Party of India
+1967,CPI,Karnataka,1,5.25,60.71,23,5.1,Communist Party of India
+1967,CPI,Andhra Pradesh,1,5.46,57.85,23,5.1,Communist Party of India
+1967,CPI,Gujarat,0,7.27,65.76,23,5.1,Communist Party of India
+1967,CPI,Odisha,0,3.72,62.74,23,5.1,Communist Party of India
+1967,CPI,Telangana,0,2.25,57.86,23,5.1,Communist Party of India
+1967,CPI,Kerala,1,6.05,56.57,23,5.1,Communist Party of India
+1967,CPI,Jharkhand,0,3.49,63.02,23,5.1,Communist Party of India
+1967,CPI,Assam,0,2.72,64.3,23,5.1,Communist Party of India
+1967,CPI,Punjab,0,6.02,58.68,23,5.1,Communist Party of India
+1967,CPI,Chhattisgarh,0,3.56,63.52,23,5.1,Communist Party of India
+1967,CPI,Haryana,0,7.08,60.27,23,5.1,Communist Party of India
+1967,CPI,Uttarakhand,0,3.33,59.23,23,5.1,Communist Party of India
+1967,CPI,Delhi,0,2.18,57.16,23,5.1,Communist Party of India
+1967,CPM,Uttar Pradesh,2,1.46,58.11,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Maharashtra,2,3.83,65.23,19,4.3,Communist Party of India (Marxist)
+1967,CPM,West Bengal,2,3.35,58.89,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Bihar,1,4.84,58.98,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Tamil Nadu,1,3.76,61.82,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Madhya Pradesh,1,3.07,65.78,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Rajasthan,1,2.14,64.98,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Karnataka,1,6.67,64.3,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Andhra Pradesh,0,1.43,58.99,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Gujarat,1,5.1,58.88,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Odisha,0,6.31,66.14,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Telangana,0,2.33,59.02,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Kerala,0,6.79,57.48,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Jharkhand,0,2.94,61.84,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Assam,0,6.28,58.36,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Punjab,0,2.12,65.3,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Chhattisgarh,0,4.88,62.31,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Haryana,0,2.35,65.44,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Uttarakhand,0,3.6,61.49,19,4.3,Communist Party of India (Marxist)
+1967,CPM,Delhi,0,2.3,63.68,19,4.3,Communist Party of India (Marxist)
+1967,SSP,Uttar Pradesh,2,5.52,58.75,23,4.9,Samyukta Socialist Party
+1967,SSP,Maharashtra,2,3.63,59.86,23,4.9,Samyukta Socialist Party
+1967,SSP,West Bengal,2,3.68,61.96,23,4.9,Samyukta Socialist Party
+1967,SSP,Bihar,1,5.88,65.67,23,4.9,Samyukta Socialist Party
+1967,SSP,Tamil Nadu,2,3.19,56.61,23,4.9,Samyukta Socialist Party
+1967,SSP,Madhya Pradesh,1,5.47,56.81,23,4.9,Samyukta Socialist Party
+1967,SSP,Rajasthan,1,5.48,59.64,23,4.9,Samyukta Socialist Party
+1967,SSP,Karnataka,1,2.54,57.05,23,4.9,Samyukta Socialist Party
+1967,SSP,Andhra Pradesh,1,4.87,63.18,23,4.9,Samyukta Socialist Party
+1967,SSP,Gujarat,1,3.38,64.49,23,4.9,Samyukta Socialist Party
+1967,SSP,Odisha,1,6.07,59.02,23,4.9,Samyukta Socialist Party
+1967,SSP,Telangana,0,4.07,57.22,23,4.9,Samyukta Socialist Party
+1967,SSP,Kerala,1,2.72,65.8,23,4.9,Samyukta Socialist Party
+1967,SSP,Jharkhand,0,3.01,61.72,23,4.9,Samyukta Socialist Party
+1967,SSP,Assam,1,6.29,64.37,23,4.9,Samyukta Socialist Party
+1967,SSP,Punjab,0,6.05,64.79,23,4.9,Samyukta Socialist Party
+1967,SSP,Chhattisgarh,0,4.84,58.51,23,4.9,Samyukta Socialist Party
+1967,SSP,Haryana,0,7.56,56.69,23,4.9,Samyukta Socialist Party
+1967,SSP,Uttarakhand,0,7.45,58.11,23,4.9,Samyukta Socialist Party
+1967,SSP,Delhi,0,7.39,56.64,23,4.9,Samyukta Socialist Party
+1967,BJS,Uttar Pradesh,7,8.18,65.54,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Maharashtra,5,12.07,61.04,35,9.4,Bharatiya Jana Sangh
+1967,BJS,West Bengal,4,11.47,59.49,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Bihar,4,6.62,62.26,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Tamil Nadu,2,7.12,57.07,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Madhya Pradesh,2,8.44,63.55,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Rajasthan,0,8.29,61.69,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Karnataka,2,8.31,62.56,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Andhra Pradesh,2,10.1,58.63,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Gujarat,0,11.62,56.51,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Odisha,2,9.57,65.69,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Telangana,1,12.39,59.81,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Kerala,2,8.81,61.1,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Jharkhand,1,11.64,66.14,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Assam,1,8.91,60.51,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Punjab,1,7.83,57.4,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Chhattisgarh,0,8.12,59.26,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Haryana,0,6.65,56.48,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Uttarakhand,0,8.97,60.14,35,9.4,Bharatiya Jana Sangh
+1967,BJS,Delhi,0,7.71,65.8,35,9.4,Bharatiya Jana Sangh
+1967,Others,Uttar Pradesh,32,33.04,60.48,137,35.5,Other Parties
+1967,Others,Maharashtra,20,38.17,60.97,137,35.5,Other Parties
+1967,Others,West Bengal,14,33.5,66.21,137,35.5,Other Parties
+1967,Others,Bihar,8,38.16,62.8,137,35.5,Other Parties
+1967,Others,Tamil Nadu,13,35.58,58.61,137,35.5,Other Parties
+1967,Others,Madhya Pradesh,5,33.82,58.16,137,35.5,Other Parties
+1967,Others,Rajasthan,9,34.6,56.88,137,35.5,Other Parties
+1967,Others,Karnataka,12,37.8,65.58,137,35.5,Other Parties
+1967,Others,Andhra Pradesh,11,33.54,60.26,137,35.5,Other Parties
+1967,Others,Gujarat,10,36.68,57.84,137,35.5,Other Parties
+1967,Others,Odisha,8,33.85,58.54,137,35.5,Other Parties
+1967,Others,Telangana,5,36.06,62.1,137,35.5,Other Parties
+1967,Others,Kerala,3,37.76,58.96,137,35.5,Other Parties
+1967,Others,Jharkhand,2,37.83,65.86,137,35.5,Other Parties
+1967,Others,Assam,5,37.36,62.85,137,35.5,Other Parties
+1967,Others,Punjab,4,33.02,60.38,137,35.5,Other Parties
+1967,Others,Chhattisgarh,2,34.06,63.53,137,35.5,Other Parties
+1967,Others,Haryana,3,32.99,58.5,137,35.5,Other Parties
+1967,Others,Uttarakhand,1,32.96,64.81,137,35.5,Other Parties
+1967,Others,Delhi,2,35.38,62.22,137,35.5,Other Parties
+1971,INC,Uttar Pradesh,80,42.79,57.08,352,43.7,Indian National Congress (INC)
+1971,INC,Maharashtra,40,42.3,59.09,352,43.7,Indian National Congress (INC)
+1971,INC,West Bengal,42,44.65,58.81,352,43.7,Indian National Congress (INC)
+1971,INC,Bihar,40,44.95,58.67,352,43.7,Indian National Congress (INC)
+1971,INC,Tamil Nadu,37,44.78,56.49,352,43.7,Indian National Congress (INC)
+1971,INC,Madhya Pradesh,29,41.65,59.11,352,43.7,Indian National Congress (INC)
+1971,INC,Rajasthan,25,40.88,58.56,352,43.7,Indian National Congress (INC)
+1971,INC,Karnataka,12,42.71,57.74,352,43.7,Indian National Congress (INC)
+1971,INC,Andhra Pradesh,11,45.61,58.62,352,43.7,Indian National Congress (INC)
+1971,INC,Gujarat,20,40.74,53.17,352,43.7,Indian National Congress (INC)
+1971,INC,Odisha,18,46.59,56.62,352,43.7,Indian National Congress (INC)
+1971,INC,Telangana,9,44.5,55.7,352,43.7,Indian National Congress (INC)
+1971,INC,Kerala,20,41.34,57.91,352,43.7,Indian National Congress (INC)
+1971,INC,Jharkhand,11,46.48,53.72,352,43.7,Indian National Congress (INC)
+1971,INC,Assam,12,46.29,51.33,352,43.7,Indian National Congress (INC)
+1971,INC,Punjab,13,44.83,50.98,352,43.7,Indian National Congress (INC)
+1971,INC,Chhattisgarh,6,44.95,50.97,352,43.7,Indian National Congress (INC)
+1971,INC,Haryana,8,42.78,56.51,352,43.7,Indian National Congress (INC)
+1971,INC,Uttarakhand,1,45.93,60.03,352,43.7,Indian National Congress (INC)
+1971,INC,Delhi,7,45.2,51.6,352,43.7,Indian National Congress (INC)
+1971,CPM,Uttar Pradesh,5,2.25,50.52,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Maharashtra,2,5.03,58.0,25,5.1,Communist Party of India (Marxist)
+1971,CPM,West Bengal,2,4.78,53.04,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Bihar,3,4.66,54.81,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Tamil Nadu,1,6.87,57.24,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Madhya Pradesh,1,2.59,57.1,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Rajasthan,1,3.74,59.81,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Karnataka,0,4.69,59.74,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Andhra Pradesh,1,5.93,54.28,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Gujarat,1,8.0,54.39,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Odisha,1,3.48,52.43,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Telangana,0,6.01,53.99,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Kerala,1,4.94,59.98,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Jharkhand,0,7.31,58.07,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Assam,1,7.17,57.91,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Punjab,0,2.89,50.63,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Chhattisgarh,0,5.8,58.27,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Haryana,0,2.8,51.55,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Uttarakhand,0,4.68,52.31,25,5.1,Communist Party of India (Marxist)
+1971,CPM,Delhi,0,2.49,56.12,25,5.1,Communist Party of India (Marxist)
+1971,CPI,Uttar Pradesh,3,6.49,53.4,23,4.7,Communist Party of India
+1971,CPI,Maharashtra,2,1.77,51.02,23,4.7,Communist Party of India
+1971,CPI,West Bengal,1,4.58,56.3,23,4.7,Communist Party of India
+1971,CPI,Bihar,1,5.87,58.9,23,4.7,Communist Party of India
+1971,CPI,Tamil Nadu,2,1.94,55.11,23,4.7,Communist Party of India
+1971,CPI,Madhya Pradesh,0,3.15,60.17,23,4.7,Communist Party of India
+1971,CPI,Rajasthan,0,4.69,56.48,23,4.7,Communist Party of India
+1971,CPI,Karnataka,1,5.06,50.4,23,4.7,Communist Party of India
+1971,CPI,Andhra Pradesh,1,4.81,51.18,23,4.7,Communist Party of India
+1971,CPI,Gujarat,1,1.9,51.09,23,4.7,Communist Party of India
+1971,CPI,Odisha,0,2.5,55.98,23,4.7,Communist Party of India
+1971,CPI,Telangana,1,6.5,52.3,23,4.7,Communist Party of India
+1971,CPI,Kerala,0,2.33,56.66,23,4.7,Communist Party of India
+1971,CPI,Jharkhand,0,1.89,59.66,23,4.7,Communist Party of India
+1971,CPI,Assam,0,4.95,57.39,23,4.7,Communist Party of India
+1971,CPI,Punjab,0,5.98,58.32,23,4.7,Communist Party of India
+1971,CPI,Chhattisgarh,0,6.59,51.1,23,4.7,Communist Party of India
+1971,CPI,Haryana,0,4.99,58.47,23,4.7,Communist Party of India
+1971,CPI,Uttarakhand,0,5.56,55.56,23,4.7,Communist Party of India
+1971,CPI,Delhi,0,2.19,50.9,23,4.7,Communist Party of India
+1971,BJS,Uttar Pradesh,2,5.36,59.02,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Maharashtra,1,10.26,53.67,22,7.4,Bharatiya Jana Sangh
+1971,BJS,West Bengal,1,9.14,56.89,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Bihar,1,7.73,57.49,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Tamil Nadu,1,10.38,60.05,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Madhya Pradesh,1,5.6,57.1,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Rajasthan,0,4.58,52.88,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Karnataka,1,9.61,57.57,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Andhra Pradesh,1,6.95,53.76,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Gujarat,1,10.33,50.7,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Odisha,1,7.87,54.69,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Telangana,1,7.32,59.03,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Kerala,1,6.93,53.07,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Jharkhand,0,9.87,52.41,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Assam,0,8.19,57.63,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Punjab,0,8.69,59.39,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Chhattisgarh,0,5.83,60.01,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Haryana,0,9.53,55.22,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Uttarakhand,0,9.62,54.75,22,7.4,Bharatiya Jana Sangh
+1971,BJS,Delhi,0,6.56,56.23,22,7.4,Bharatiya Jana Sangh
+1971,Others,Uttar Pradesh,10,38.45,59.99,98,39.1,Other Parties
+1971,Others,Maharashtra,7,40.04,53.55,98,39.1,Other Parties
+1971,Others,West Bengal,11,36.89,60.0,98,39.1,Other Parties
+1971,Others,Bihar,8,37.52,51.03,98,39.1,Other Parties
+1971,Others,Tamil Nadu,5,39.22,53.67,98,39.1,Other Parties
+1971,Others,Madhya Pradesh,8,38.69,52.79,98,39.1,Other Parties
+1971,Others,Rajasthan,6,40.34,51.97,98,39.1,Other Parties
+1971,Others,Karnataka,3,36.32,57.66,98,39.1,Other Parties
+1971,Others,Andhra Pradesh,6,38.95,58.74,98,39.1,Other Parties
+1971,Others,Gujarat,7,39.61,58.98,98,39.1,Other Parties
+1971,Others,Odisha,3,36.77,53.0,98,39.1,Other Parties
+1971,Others,Telangana,1,39.29,59.67,98,39.1,Other Parties
+1971,Others,Kerala,2,36.83,54.82,98,39.1,Other Parties
+1971,Others,Jharkhand,4,38.0,55.37,98,39.1,Other Parties
+1971,Others,Assam,1,36.99,60.17,98,39.1,Other Parties
+1971,Others,Punjab,4,36.13,59.82,98,39.1,Other Parties
+1971,Others,Chhattisgarh,2,41.31,54.85,98,39.1,Other Parties
+1971,Others,Haryana,2,39.03,56.97,98,39.1,Other Parties
+1971,Others,Uttarakhand,0,36.28,53.38,98,39.1,Other Parties
+1971,Others,Delhi,1,37.31,57.03,98,39.1,Other Parties
+1977,JNP,Uttar Pradesh,76,38.86,62.23,295,41.3,Janata Party
+1977,JNP,Maharashtra,28,43.51,57.27,295,41.3,Janata Party
+1977,JNP,West Bengal,32,43.33,64.95,295,41.3,Janata Party
+1977,JNP,Bihar,30,41.28,61.68,295,41.3,Janata Party
+1977,JNP,Tamil Nadu,34,41.72,55.8,295,41.3,Janata Party
+1977,JNP,Madhya Pradesh,26,42.44,62.27,295,41.3,Janata Party
+1977,JNP,Rajasthan,10,42.25,59.44,295,41.3,Janata Party
+1977,JNP,Karnataka,20,38.94,62.08,295,41.3,Janata Party
+1977,JNP,Andhra Pradesh,24,38.59,65.27,295,41.3,Janata Party
+1977,JNP,Gujarat,14,43.52,63.32,295,41.3,Janata Party
+1977,JNP,Odisha,14,42.73,64.29,295,41.3,Janata Party
+1977,JNP,Telangana,9,40.26,62.18,295,41.3,Janata Party
+1977,JNP,Kerala,16,42.87,63.48,295,41.3,Janata Party
+1977,JNP,Jharkhand,8,43.21,56.7,295,41.3,Janata Party
+1977,JNP,Assam,9,38.33,58.75,295,41.3,Janata Party
+1977,JNP,Punjab,6,40.68,62.45,295,41.3,Janata Party
+1977,JNP,Chhattisgarh,6,40.99,57.88,295,41.3,Janata Party
+1977,JNP,Haryana,5,39.66,56.23,295,41.3,Janata Party
+1977,JNP,Uttarakhand,3,42.31,61.69,295,41.3,Janata Party
+1977,JNP,Delhi,4,40.58,64.13,295,41.3,Janata Party
+1977,INC,Uttar Pradesh,26,34.38,55.76,154,34.5,Indian National Congress (INC)
+1977,INC,Maharashtra,12,33.78,59.49,154,34.5,Indian National Congress (INC)
+1977,INC,West Bengal,14,34.7,61.58,154,34.5,Indian National Congress (INC)
+1977,INC,Bihar,16,36.38,62.68,154,34.5,Indian National Congress (INC)
+1977,INC,Tamil Nadu,19,31.61,57.46,154,34.5,Indian National Congress (INC)
+1977,INC,Madhya Pradesh,4,35.38,64.48,154,34.5,Indian National Congress (INC)
+1977,INC,Rajasthan,5,37.06,56.1,154,34.5,Indian National Congress (INC)
+1977,INC,Karnataka,13,33.61,56.51,154,34.5,Indian National Congress (INC)
+1977,INC,Andhra Pradesh,8,33.04,58.35,154,34.5,Indian National Congress (INC)
+1977,INC,Gujarat,6,36.32,60.89,154,34.5,Indian National Congress (INC)
+1977,INC,Odisha,5,35.16,62.66,154,34.5,Indian National Congress (INC)
+1977,INC,Telangana,4,33.98,56.72,154,34.5,Indian National Congress (INC)
+1977,INC,Kerala,4,35.59,57.31,154,34.5,Indian National Congress (INC)
+1977,INC,Jharkhand,4,35.75,56.57,154,34.5,Indian National Congress (INC)
+1977,INC,Assam,4,33.04,65.13,154,34.5,Indian National Congress (INC)
+1977,INC,Punjab,4,36.34,61.0,154,34.5,Indian National Congress (INC)
+1977,INC,Chhattisgarh,1,35.3,65.01,154,34.5,Indian National Congress (INC)
+1977,INC,Haryana,3,36.42,64.34,154,34.5,Indian National Congress (INC)
+1977,INC,Uttarakhand,1,32.77,61.61,154,34.5,Indian National Congress (INC)
+1977,INC,Delhi,2,36.54,64.5,154,34.5,Indian National Congress (INC)
+1977,CPM,Uttar Pradesh,3,2.72,63.31,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Maharashtra,1,6.24,59.74,22,4.3,Communist Party of India (Marxist)
+1977,CPM,West Bengal,2,1.87,61.74,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Bihar,1,4.82,57.18,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Tamil Nadu,2,6.48,57.67,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Madhya Pradesh,0,1.44,61.92,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Rajasthan,1,4.58,57.82,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Karnataka,1,4.87,60.47,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Andhra Pradesh,1,2.12,62.45,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Gujarat,1,3.87,62.68,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Odisha,1,7.25,56.78,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Telangana,0,5.65,61.28,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Kerala,0,1.78,56.36,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Jharkhand,0,2.45,58.73,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Assam,0,3.43,56.19,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Punjab,0,1.71,63.5,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Chhattisgarh,0,4.54,64.3,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Haryana,0,4.5,58.74,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Uttarakhand,0,5.32,65.44,22,4.3,Communist Party of India (Marxist)
+1977,CPM,Delhi,0,4.65,62.81,22,4.3,Communist Party of India (Marxist)
+1977,ADMK,Uttar Pradesh,3,0.46,61.12,19,3.1,All India Anna DMK
+1977,ADMK,Maharashtra,2,1.15,62.4,19,3.1,All India Anna DMK
+1977,ADMK,West Bengal,1,3.31,56.47,19,3.1,All India Anna DMK
+1977,ADMK,Bihar,1,4.64,58.98,19,3.1,All India Anna DMK
+1977,ADMK,Tamil Nadu,1,4.87,64.77,19,3.1,All India Anna DMK
+1977,ADMK,Madhya Pradesh,0,2.5,57.02,19,3.1,All India Anna DMK
+1977,ADMK,Rajasthan,1,5.66,60.9,19,3.1,All India Anna DMK
+1977,ADMK,Karnataka,1,3.23,61.74,19,3.1,All India Anna DMK
+1977,ADMK,Andhra Pradesh,0,4.63,56.78,19,3.1,All India Anna DMK
+1977,ADMK,Gujarat,1,4.79,62.59,19,3.1,All India Anna DMK
+1977,ADMK,Odisha,0,1.92,58.13,19,3.1,All India Anna DMK
+1977,ADMK,Telangana,0,0.63,64.87,19,3.1,All India Anna DMK
+1977,ADMK,Kerala,0,1.93,59.47,19,3.1,All India Anna DMK
+1977,ADMK,Jharkhand,0,3.7,60.66,19,3.1,All India Anna DMK
+1977,ADMK,Assam,0,3.08,65.42,19,3.1,All India Anna DMK
+1977,ADMK,Punjab,0,1.35,64.81,19,3.1,All India Anna DMK
+1977,ADMK,Chhattisgarh,0,5.0,59.31,19,3.1,All India Anna DMK
+1977,ADMK,Haryana,0,5.31,63.56,19,3.1,All India Anna DMK
+1977,ADMK,Uttarakhand,0,1.93,56.31,19,3.1,All India Anna DMK
+1977,ADMK,Delhi,0,1.14,62.45,19,3.1,All India Anna DMK
+1977,Others,Uttar Pradesh,7,19.65,61.91,52,16.8,Other Parties
+1977,Others,Maharashtra,7,14.6,64.12,52,16.8,Other Parties
+1977,Others,West Bengal,6,16.72,61.56,52,16.8,Other Parties
+1977,Others,Bihar,5,14.85,60.53,52,16.8,Other Parties
+1977,Others,Tamil Nadu,3,14.68,59.18,52,16.8,Other Parties
+1977,Others,Madhya Pradesh,1,13.95,56.85,52,16.8,Other Parties
+1977,Others,Rajasthan,4,17.1,65.16,52,16.8,Other Parties
+1977,Others,Karnataka,2,15.67,60.56,52,16.8,Other Parties
+1977,Others,Andhra Pradesh,2,14.43,61.91,52,16.8,Other Parties
+1977,Others,Gujarat,1,17.52,62.0,52,16.8,Other Parties
+1977,Others,Odisha,1,14.17,63.31,52,16.8,Other Parties
+1977,Others,Telangana,1,14.15,65.45,52,16.8,Other Parties
+1977,Others,Kerala,1,17.97,65.34,52,16.8,Other Parties
+1977,Others,Jharkhand,1,14.65,56.71,52,16.8,Other Parties
+1977,Others,Assam,1,14.41,62.42,52,16.8,Other Parties
+1977,Others,Punjab,0,16.86,65.47,52,16.8,Other Parties
+1977,Others,Chhattisgarh,1,17.49,58.56,52,16.8,Other Parties
+1977,Others,Haryana,1,16.96,59.76,52,16.8,Other Parties
+1977,Others,Uttarakhand,0,19.12,60.0,52,16.8,Other Parties
+1977,Others,Delhi,0,16.01,59.64,52,16.8,Other Parties
+1980,INC,Uttar Pradesh,80,44.1,59.89,353,42.7,Indian National Congress (INC)
+1980,INC,Maharashtra,16,42.2,57.01,353,42.7,Indian National Congress (INC)
+1980,INC,West Bengal,14,41.26,59.8,353,42.7,Indian National Congress (INC)
+1980,INC,Bihar,17,42.91,54.35,353,42.7,Indian National Congress (INC)
+1980,INC,Tamil Nadu,13,41.15,61.96,353,42.7,Indian National Congress (INC)
+1980,INC,Madhya Pradesh,29,45.46,57.08,353,42.7,Indian National Congress (INC)
+1980,INC,Rajasthan,10,42.99,56.74,353,42.7,Indian National Congress (INC)
+1980,INC,Karnataka,28,40.29,57.08,353,42.7,Indian National Congress (INC)
+1980,INC,Andhra Pradesh,11,41.65,59.57,353,42.7,Indian National Congress (INC)
+1980,INC,Gujarat,18,41.96,56.14,353,42.7,Indian National Congress (INC)
+1980,INC,Odisha,14,44.41,61.12,353,42.7,Indian National Congress (INC)
+1980,INC,Telangana,17,44.42,55.35,353,42.7,Indian National Congress (INC)
+1980,INC,Kerala,18,42.33,54.75,353,42.7,Indian National Congress (INC)
+1980,INC,Jharkhand,14,39.93,61.22,353,42.7,Indian National Congress (INC)
+1980,INC,Assam,9,43.52,58.79,353,42.7,Indian National Congress (INC)
+1980,INC,Punjab,13,43.52,58.34,353,42.7,Indian National Congress (INC)
+1980,INC,Chhattisgarh,4,42.81,53.7,353,42.7,Indian National Congress (INC)
+1980,INC,Haryana,9,42.77,59.0,353,42.7,Indian National Congress (INC)
+1980,INC,Uttarakhand,1,40.21,59.36,353,42.7,Indian National Congress (INC)
+1980,INC,Delhi,2,40.13,52.32,353,42.7,Indian National Congress (INC)
+1980,JNP,Uttar Pradesh,7,10.83,55.73,31,9.4,Janata Party
+1980,JNP,Maharashtra,2,8.5,59.95,31,9.4,Janata Party
+1980,JNP,West Bengal,3,7.51,53.94,31,9.4,Janata Party
+1980,JNP,Bihar,1,10.36,59.84,31,9.4,Janata Party
+1980,JNP,Tamil Nadu,1,6.53,53.02,31,9.4,Janata Party
+1980,JNP,Madhya Pradesh,2,8.17,59.89,31,9.4,Janata Party
+1980,JNP,Rajasthan,1,8.69,54.26,31,9.4,Janata Party
+1980,JNP,Karnataka,1,10.09,59.95,31,9.4,Janata Party
+1980,JNP,Andhra Pradesh,1,9.58,52.62,31,9.4,Janata Party
+1980,JNP,Gujarat,2,11.19,55.13,31,9.4,Janata Party
+1980,JNP,Odisha,2,10.01,58.02,31,9.4,Janata Party
+1980,JNP,Telangana,1,11.27,58.76,31,9.4,Janata Party
+1980,JNP,Kerala,0,8.43,61.48,31,9.4,Janata Party
+1980,JNP,Jharkhand,0,8.63,56.52,31,9.4,Janata Party
+1980,JNP,Assam,0,10.08,61.63,31,9.4,Janata Party
+1980,JNP,Punjab,0,7.13,54.17,31,9.4,Janata Party
+1980,JNP,Chhattisgarh,1,10.27,55.06,31,9.4,Janata Party
+1980,JNP,Haryana,0,11.57,60.67,31,9.4,Janata Party
+1980,JNP,Uttarakhand,0,7.91,59.75,31,9.4,Janata Party
+1980,JNP,Delhi,0,11.45,59.48,31,9.4,Janata Party
+1980,CPM,Uttar Pradesh,8,7.14,53.97,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Maharashtra,3,9.11,61.57,37,6.2,Communist Party of India (Marxist)
+1980,CPM,West Bengal,1,4.19,53.52,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Bihar,3,8.11,54.34,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Tamil Nadu,3,8.24,59.53,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Madhya Pradesh,2,6.74,57.28,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Rajasthan,1,6.59,59.09,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Karnataka,3,7.02,59.81,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Andhra Pradesh,1,5.97,52.29,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Gujarat,1,7.56,62.12,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Odisha,0,5.61,60.2,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Telangana,0,6.53,59.53,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Kerala,1,4.33,55.75,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Jharkhand,1,6.53,52.25,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Assam,1,3.41,59.66,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Punjab,0,8.95,55.88,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Chhattisgarh,0,4.09,55.26,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Haryana,1,9.18,55.88,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Uttarakhand,0,7.53,61.06,37,6.2,Communist Party of India (Marxist)
+1980,CPM,Delhi,0,5.55,56.33,37,6.2,Communist Party of India (Marxist)
+1980,JNP_S,Uttar Pradesh,8,6.42,58.4,41,9.4,Janata Party (Secular)
+1980,JNP_S,Maharashtra,3,11.17,53.13,41,9.4,Janata Party (Secular)
+1980,JNP_S,West Bengal,4,9.29,58.62,41,9.4,Janata Party (Secular)
+1980,JNP_S,Bihar,1,9.88,57.81,41,9.4,Janata Party (Secular)
+1980,JNP_S,Tamil Nadu,3,10.02,58.96,41,9.4,Janata Party (Secular)
+1980,JNP_S,Madhya Pradesh,3,8.02,60.45,41,9.4,Janata Party (Secular)
+1980,JNP_S,Rajasthan,2,6.86,52.79,41,9.4,Janata Party (Secular)
+1980,JNP_S,Karnataka,1,11.11,59.28,41,9.4,Janata Party (Secular)
+1980,JNP_S,Andhra Pradesh,2,9.5,56.6,41,9.4,Janata Party (Secular)
+1980,JNP_S,Gujarat,1,8.37,56.54,41,9.4,Janata Party (Secular)
+1980,JNP_S,Odisha,0,7.72,58.18,41,9.4,Janata Party (Secular)
+1980,JNP_S,Telangana,1,12.39,61.53,41,9.4,Janata Party (Secular)
+1980,JNP_S,Kerala,2,8.93,58.56,41,9.4,Janata Party (Secular)
+1980,JNP_S,Jharkhand,1,7.11,56.3,41,9.4,Janata Party (Secular)
+1980,JNP_S,Assam,1,8.7,57.92,41,9.4,Janata Party (Secular)
+1980,JNP_S,Punjab,1,7.51,55.82,41,9.4,Janata Party (Secular)
+1980,JNP_S,Chhattisgarh,0,6.56,52.44,41,9.4,Janata Party (Secular)
+1980,JNP_S,Haryana,1,8.04,57.38,41,9.4,Janata Party (Secular)
+1980,JNP_S,Uttarakhand,0,12.04,54.79,41,9.4,Janata Party (Secular)
+1980,JNP_S,Delhi,0,11.64,60.62,41,9.4,Janata Party (Secular)
+1980,Others,Uttar Pradesh,8,34.12,56.78,82,32.3,Other Parties
+1980,Others,Maharashtra,8,30.1,53.01,82,32.3,Other Parties
+1980,Others,West Bengal,9,32.28,56.57,82,32.3,Other Parties
+1980,Others,Bihar,8,33.89,53.79,82,32.3,Other Parties
+1980,Others,Tamil Nadu,7,30.11,59.71,82,32.3,Other Parties
+1980,Others,Madhya Pradesh,5,35.04,52.89,82,32.3,Other Parties
+1980,Others,Rajasthan,2,30.99,54.82,82,32.3,Other Parties
+1980,Others,Karnataka,3,34.74,54.7,82,32.3,Other Parties
+1980,Others,Andhra Pradesh,3,33.86,56.7,82,32.3,Other Parties
+1980,Others,Gujarat,5,29.69,57.08,82,32.3,Other Parties
+1980,Others,Odisha,1,29.68,61.26,82,32.3,Other Parties
+1980,Others,Telangana,1,32.49,56.31,82,32.3,Other Parties
+1980,Others,Kerala,2,34.7,52.42,82,32.3,Other Parties
+1980,Others,Jharkhand,2,35.08,57.8,82,32.3,Other Parties
+1980,Others,Assam,3,29.61,56.39,82,32.3,Other Parties
+1980,Others,Punjab,1,33.68,62.01,82,32.3,Other Parties
+1980,Others,Chhattisgarh,1,33.23,54.18,82,32.3,Other Parties
+1980,Others,Haryana,1,32.08,61.92,82,32.3,Other Parties
+1980,Others,Uttarakhand,0,31.4,53.34,82,32.3,Other Parties
+1980,Others,Delhi,0,30.65,54.71,82,32.3,Other Parties
+1984,INC,Uttar Pradesh,80,49.47,64.33,404,49.1,Indian National Congress (INC)
+1984,INC,Maharashtra,23,51.26,66.33,404,49.1,Indian National Congress (INC)
+1984,INC,West Bengal,18,50.35,64.54,404,49.1,Indian National Congress (INC)
+1984,INC,Bihar,18,48.85,63.95,404,49.1,Indian National Congress (INC)
+1984,INC,Tamil Nadu,20,51.77,67.6,404,49.1,Indian National Congress (INC)
+1984,INC,Madhya Pradesh,29,48.87,63.22,404,49.1,Indian National Congress (INC)
+1984,INC,Rajasthan,25,49.37,59.72,404,49.1,Indian National Congress (INC)
+1984,INC,Karnataka,24,50.94,63.69,404,49.1,Indian National Congress (INC)
+1984,INC,Andhra Pradesh,10,50.82,61.11,404,49.1,Indian National Congress (INC)
+1984,INC,Gujarat,16,47.09,62.4,404,49.1,Indian National Congress (INC)
+1984,INC,Odisha,21,49.22,61.15,404,49.1,Indian National Congress (INC)
+1984,INC,Telangana,17,51.38,67.81,404,49.1,Indian National Congress (INC)
+1984,INC,Kerala,12,48.81,68.95,404,49.1,Indian National Congress (INC)
+1984,INC,Jharkhand,14,46.26,59.75,404,49.1,Indian National Congress (INC)
+1984,INC,Assam,11,51.56,64.49,404,49.1,Indian National Congress (INC)
+1984,INC,Punjab,11,46.73,65.67,404,49.1,Indian National Congress (INC)
+1984,INC,Chhattisgarh,11,48.38,66.86,404,49.1,Indian National Congress (INC)
+1984,INC,Haryana,10,47.32,64.33,404,49.1,Indian National Congress (INC)
+1984,INC,Uttarakhand,3,50.86,64.88,404,49.1,Indian National Congress (INC)
+1984,INC,Delhi,6,50.89,63.06,404,49.1,Indian National Congress (INC)
+1984,BJP,Uttar Pradesh,0,7.6,60.68,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Maharashtra,0,9.16,62.27,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,West Bengal,0,9.84,61.87,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Bihar,0,5.24,61.12,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Tamil Nadu,0,9.76,65.64,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Madhya Pradesh,0,7.04,65.25,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Rajasthan,0,9.69,67.14,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Karnataka,0,10.2,63.28,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Andhra Pradesh,0,8.41,65.45,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Gujarat,0,9.69,63.37,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Odisha,0,4.48,64.7,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Telangana,0,8.72,68.0,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Kerala,0,8.79,60.97,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Jharkhand,0,9.31,64.51,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Assam,0,6.29,63.81,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Punjab,0,7.16,62.68,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Chhattisgarh,0,9.37,62.45,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Haryana,0,8.67,67.36,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Uttarakhand,0,5.84,60.52,2,7.4,Bharatiya Janata Party (BJP)
+1984,BJP,Delhi,0,7.1,66.59,2,7.4,Bharatiya Janata Party (BJP)
+1984,CPM,Uttar Pradesh,4,6.43,62.62,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Maharashtra,3,5.53,68.89,22,5.7,Communist Party of India (Marxist)
+1984,CPM,West Bengal,2,3.46,65.86,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Bihar,1,6.82,59.8,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Tamil Nadu,1,7.83,61.37,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Madhya Pradesh,1,4.38,65.53,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Rajasthan,1,5.78,62.15,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Karnataka,0,2.9,62.14,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Andhra Pradesh,1,8.33,67.81,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Gujarat,1,7.43,65.75,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Odisha,0,8.14,65.81,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Telangana,0,3.37,63.57,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Kerala,0,7.89,64.57,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Jharkhand,0,8.56,60.21,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Assam,0,2.95,66.5,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Punjab,0,4.38,67.68,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Chhattisgarh,0,8.16,66.64,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Haryana,0,2.81,68.73,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Uttarakhand,0,4.53,67.39,22,5.7,Communist Party of India (Marxist)
+1984,CPM,Delhi,0,7.94,60.23,22,5.7,Communist Party of India (Marxist)
+1984,TDP,Uttar Pradesh,6,4.54,60.07,30,4.3,Telugu Desam Party
+1984,TDP,Maharashtra,2,1.37,63.79,30,4.3,Telugu Desam Party
+1984,TDP,West Bengal,2,4.89,62.07,30,4.3,Telugu Desam Party
+1984,TDP,Bihar,1,5.76,59.58,30,4.3,Telugu Desam Party
+1984,TDP,Tamil Nadu,3,6.41,65.78,30,4.3,Telugu Desam Party
+1984,TDP,Madhya Pradesh,2,6.65,60.95,30,4.3,Telugu Desam Party
+1984,TDP,Rajasthan,0,2.74,67.05,30,4.3,Telugu Desam Party
+1984,TDP,Karnataka,0,4.8,69.05,30,4.3,Telugu Desam Party
+1984,TDP,Andhra Pradesh,2,4.43,59.74,30,4.3,Telugu Desam Party
+1984,TDP,Gujarat,2,4.89,60.25,30,4.3,Telugu Desam Party
+1984,TDP,Odisha,0,6.76,65.79,30,4.3,Telugu Desam Party
+1984,TDP,Telangana,1,6.57,64.82,30,4.3,Telugu Desam Party
+1984,TDP,Kerala,1,3.88,62.27,30,4.3,Telugu Desam Party
+1984,TDP,Jharkhand,0,5.94,65.12,30,4.3,Telugu Desam Party
+1984,TDP,Assam,1,3.96,65.17,30,4.3,Telugu Desam Party
+1984,TDP,Punjab,0,4.85,66.13,30,4.3,Telugu Desam Party
+1984,TDP,Chhattisgarh,0,4.37,60.14,30,4.3,Telugu Desam Party
+1984,TDP,Haryana,0,4.23,65.62,30,4.3,Telugu Desam Party
+1984,TDP,Uttarakhand,0,4.9,66.54,30,4.3,Telugu Desam Party
+1984,TDP,Delhi,0,5.1,59.81,30,4.3,Telugu Desam Party
+1984,Others,Uttar Pradesh,10,32.67,63.82,84,33.5,Other Parties
+1984,Others,Maharashtra,4,31.34,61.87,84,33.5,Other Parties
+1984,Others,West Bengal,11,32.49,63.92,84,33.5,Other Parties
+1984,Others,Bihar,4,34.16,61.91,84,33.5,Other Parties
+1984,Others,Tamil Nadu,4,33.6,59.16,84,33.5,Other Parties
+1984,Others,Madhya Pradesh,2,31.81,59.47,84,33.5,Other Parties
+1984,Others,Rajasthan,2,32.53,67.13,84,33.5,Other Parties
+1984,Others,Karnataka,5,33.58,62.03,84,33.5,Other Parties
+1984,Others,Andhra Pradesh,6,32.88,59.97,84,33.5,Other Parties
+1984,Others,Gujarat,5,31.18,62.55,84,33.5,Other Parties
+1984,Others,Odisha,3,35.75,64.04,84,33.5,Other Parties
+1984,Others,Telangana,3,36.46,60.41,84,33.5,Other Parties
+1984,Others,Kerala,2,32.87,63.32,84,33.5,Other Parties
+1984,Others,Jharkhand,2,35.95,66.24,84,33.5,Other Parties
+1984,Others,Assam,2,32.36,67.34,84,33.5,Other Parties
+1984,Others,Punjab,3,35.43,59.12,84,33.5,Other Parties
+1984,Others,Chhattisgarh,2,30.81,61.68,84,33.5,Other Parties
+1984,Others,Haryana,0,34.12,65.97,84,33.5,Other Parties
+1984,Others,Uttarakhand,0,32.8,63.66,84,33.5,Other Parties
+1984,Others,Delhi,1,31.23,63.29,84,33.5,Other Parties
+1989,INC,Uttar Pradesh,42,36.93,57.8,197,39.5,Indian National Congress (INC)
+1989,INC,Maharashtra,16,42.15,63.69,197,39.5,Indian National Congress (INC)
+1989,INC,West Bengal,21,38.67,62.94,197,39.5,Indian National Congress (INC)
+1989,INC,Bihar,7,40.32,66.13,197,39.5,Indian National Congress (INC)
+1989,INC,Tamil Nadu,18,41.74,64.24,197,39.5,Indian National Congress (INC)
+1989,INC,Madhya Pradesh,6,41.91,57.66,197,39.5,Indian National Congress (INC)
+1989,INC,Rajasthan,10,37.35,57.12,197,39.5,Indian National Congress (INC)
+1989,INC,Karnataka,10,38.27,61.86,197,39.5,Indian National Congress (INC)
+1989,INC,Andhra Pradesh,11,36.76,58.23,197,39.5,Indian National Congress (INC)
+1989,INC,Gujarat,11,38.56,64.29,197,39.5,Indian National Congress (INC)
+1989,INC,Odisha,10,41.57,63.92,197,39.5,Indian National Congress (INC)
+1989,INC,Telangana,6,40.54,59.75,197,39.5,Indian National Congress (INC)
+1989,INC,Kerala,6,41.23,61.46,197,39.5,Indian National Congress (INC)
+1989,INC,Jharkhand,7,41.43,65.58,197,39.5,Indian National Congress (INC)
+1989,INC,Assam,8,39.09,60.19,197,39.5,Indian National Congress (INC)
+1989,INC,Punjab,5,38.73,63.01,197,39.5,Indian National Congress (INC)
+1989,INC,Chhattisgarh,5,40.63,60.75,197,39.5,Indian National Congress (INC)
+1989,INC,Haryana,2,39.08,58.43,197,39.5,Indian National Congress (INC)
+1989,INC,Uttarakhand,3,38.58,58.54,197,39.5,Indian National Congress (INC)
+1989,INC,Delhi,1,40.37,63.37,197,39.5,Indian National Congress (INC)
+1989,BJP,Uttar Pradesh,11,8.83,61.1,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Maharashtra,6,12.46,63.06,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,West Bengal,6,9.71,66.88,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Bihar,6,12.53,58.41,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Tamil Nadu,6,8.57,62.05,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Madhya Pradesh,7,10.71,57.39,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Rajasthan,2,10.73,58.6,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Karnataka,2,12.94,61.59,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Andhra Pradesh,3,13.8,58.16,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Gujarat,7,10.28,65.88,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Odisha,4,13.36,66.84,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Telangana,2,14.17,60.89,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Kerala,3,10.44,62.41,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Jharkhand,1,11.72,62.42,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Assam,3,13.4,61.4,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Punjab,1,9.96,58.95,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Chhattisgarh,0,10.45,59.7,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Haryana,2,11.75,60.47,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Uttarakhand,0,9.24,61.44,85,11.4,Bharatiya Janata Party (BJP)
+1989,BJP,Delhi,1,11.33,61.02,85,11.4,Bharatiya Janata Party (BJP)
+1989,JD,Uttar Pradesh,37,20.08,63.23,143,17.8,Janata Dal
+1989,JD,Maharashtra,15,18.52,59.01,143,17.8,Janata Dal
+1989,JD,West Bengal,11,15.04,61.76,143,17.8,Janata Dal
+1989,JD,Bihar,12,16.17,66.64,143,17.8,Janata Dal
+1989,JD,Tamil Nadu,17,19.13,62.33,143,17.8,Janata Dal
+1989,JD,Madhya Pradesh,12,15.58,64.91,143,17.8,Janata Dal
+1989,JD,Rajasthan,4,19.57,59.76,143,17.8,Janata Dal
+1989,JD,Karnataka,12,20.46,58.49,143,17.8,Janata Dal
+1989,JD,Andhra Pradesh,7,20.69,61.83,143,17.8,Janata Dal
+1989,JD,Gujarat,11,18.33,60.75,143,17.8,Janata Dal
+1989,JD,Odisha,4,16.02,64.62,143,17.8,Janata Dal
+1989,JD,Telangana,4,17.87,61.92,143,17.8,Janata Dal
+1989,JD,Kerala,6,19.99,66.81,143,17.8,Janata Dal
+1989,JD,Jharkhand,3,19.77,64.65,143,17.8,Janata Dal
+1989,JD,Assam,4,20.54,59.0,143,17.8,Janata Dal
+1989,JD,Punjab,2,19.92,61.39,143,17.8,Janata Dal
+1989,JD,Chhattisgarh,4,20.16,57.62,143,17.8,Janata Dal
+1989,JD,Haryana,4,17.49,62.1,143,17.8,Janata Dal
+1989,JD,Uttarakhand,1,20.36,57.19,143,17.8,Janata Dal
+1989,JD,Delhi,2,18.93,64.23,143,17.8,Janata Dal
+1989,CPM,Uttar Pradesh,6,4.41,59.99,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Maharashtra,2,8.43,59.79,33,6.6,Communist Party of India (Marxist)
+1989,CPM,West Bengal,1,9.34,57.09,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Bihar,4,7.66,65.28,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Tamil Nadu,2,3.69,64.38,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Madhya Pradesh,2,8.04,58.43,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Rajasthan,2,8.21,63.59,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Karnataka,2,8.68,63.14,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Andhra Pradesh,0,6.53,57.78,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Gujarat,1,6.04,57.66,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Odisha,1,4.27,65.08,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Telangana,1,4.03,66.55,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Kerala,1,5.4,57.77,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Jharkhand,0,8.37,64.07,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Assam,0,4.04,61.03,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Punjab,0,4.99,59.81,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Chhattisgarh,1,9.18,61.05,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Haryana,1,5.53,61.76,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Uttarakhand,0,7.44,66.79,33,6.6,Communist Party of India (Marxist)
+1989,CPM,Delhi,0,5.75,63.48,33,6.6,Communist Party of India (Marxist)
+1989,Others,Uttar Pradesh,8,27.03,62.03,84,24.7,Other Parties
+1989,Others,Maharashtra,8,25.22,63.25,84,24.7,Other Parties
+1989,Others,West Bengal,3,25.8,59.42,84,24.7,Other Parties
+1989,Others,Bihar,8,26.64,65.04,84,24.7,Other Parties
+1989,Others,Tamil Nadu,7,24.82,58.43,84,24.7,Other Parties
+1989,Others,Madhya Pradesh,6,23.33,61.97,84,24.7,Other Parties
+1989,Others,Rajasthan,3,22.5,63.3,84,24.7,Other Parties
+1989,Others,Karnataka,2,26.19,60.18,84,24.7,Other Parties
+1989,Others,Andhra Pradesh,1,24.77,57.47,84,24.7,Other Parties
+1989,Others,Gujarat,3,25.94,57.63,84,24.7,Other Parties
+1989,Others,Odisha,5,21.72,59.47,84,24.7,Other Parties
+1989,Others,Telangana,3,23.6,58.02,84,24.7,Other Parties
+1989,Others,Kerala,3,23.32,65.43,84,24.7,Other Parties
+1989,Others,Jharkhand,1,26.43,65.92,84,24.7,Other Parties
+1989,Others,Assam,2,27.16,60.77,84,24.7,Other Parties
+1989,Others,Punjab,3,22.24,63.87,84,24.7,Other Parties
+1989,Others,Chhattisgarh,1,24.03,63.33,84,24.7,Other Parties
+1989,Others,Haryana,2,21.73,58.67,84,24.7,Other Parties
+1989,Others,Uttarakhand,1,25.7,66.66,84,24.7,Other Parties
+1989,Others,Delhi,1,27.4,64.03,84,24.7,Other Parties
+1991,INC,Uttar Pradesh,31,34.13,59.52,244,36.5,Indian National Congress (INC)
+1991,INC,Maharashtra,28,33.79,55.3,244,36.5,Indian National Congress (INC)
+1991,INC,West Bengal,32,36.5,56.03,244,36.5,Indian National Congress (INC)
+1991,INC,Bihar,19,34.75,55.39,244,36.5,Indian National Congress (INC)
+1991,INC,Tamil Nadu,17,33.81,59.38,244,36.5,Indian National Congress (INC)
+1991,INC,Madhya Pradesh,13,38.43,60.2,244,36.5,Indian National Congress (INC)
+1991,INC,Rajasthan,8,37.44,56.42,244,36.5,Indian National Congress (INC)
+1991,INC,Karnataka,20,34.79,58.48,244,36.5,Indian National Congress (INC)
+1991,INC,Andhra Pradesh,14,35.27,53.07,244,36.5,Indian National Congress (INC)
+1991,INC,Gujarat,15,37.93,54.86,244,36.5,Indian National Congress (INC)
+1991,INC,Odisha,12,35.87,58.83,244,36.5,Indian National Congress (INC)
+1991,INC,Telangana,5,38.84,54.57,244,36.5,Indian National Congress (INC)
+1991,INC,Kerala,8,33.85,52.82,244,36.5,Indian National Congress (INC)
+1991,INC,Jharkhand,7,35.11,60.05,244,36.5,Indian National Congress (INC)
+1991,INC,Assam,3,35.77,55.07,244,36.5,Indian National Congress (INC)
+1991,INC,Punjab,3,34.25,55.84,244,36.5,Indian National Congress (INC)
+1991,INC,Chhattisgarh,5,35.93,57.01,244,36.5,Indian National Congress (INC)
+1991,INC,Haryana,5,33.56,56.34,244,36.5,Indian National Congress (INC)
+1991,INC,Uttarakhand,3,36.61,58.48,244,36.5,Indian National Congress (INC)
+1991,INC,Delhi,2,38.14,59.43,244,36.5,Indian National Congress (INC)
+1991,BJP,Uttar Pradesh,20,22.96,52.96,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Maharashtra,5,21.72,59.77,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,West Bengal,6,18.69,51.88,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Bihar,7,21.74,56.88,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Tamil Nadu,8,19.33,51.71,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Madhya Pradesh,5,20.98,61.44,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Rajasthan,8,17.24,60.69,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Karnataka,9,21.78,56.28,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Andhra Pradesh,5,18.92,52.36,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Gujarat,4,18.58,56.54,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Odisha,6,19.94,52.28,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Telangana,6,22.76,59.55,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Kerala,7,20.37,61.33,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Jharkhand,1,19.29,53.95,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Assam,2,17.94,57.92,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Punjab,4,20.57,53.17,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Chhattisgarh,3,20.92,55.58,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Haryana,3,18.66,55.15,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Uttarakhand,1,18.84,56.4,120,20.1,Bharatiya Janata Party (BJP)
+1991,BJP,Delhi,2,21.35,52.32,120,20.1,Bharatiya Janata Party (BJP)
+1991,JD,Uttar Pradesh,6,8.85,58.01,59,11.8,Janata Dal
+1991,JD,Maharashtra,5,9.61,61.28,59,11.8,Janata Dal
+1991,JD,West Bengal,5,10.25,56.71,59,11.8,Janata Dal
+1991,JD,Bihar,6,9.26,54.45,59,11.8,Janata Dal
+1991,JD,Tamil Nadu,6,11.56,57.17,59,11.8,Janata Dal
+1991,JD,Madhya Pradesh,3,9.06,53.36,59,11.8,Janata Dal
+1991,JD,Rajasthan,2,10.06,52.2,59,11.8,Janata Dal
+1991,JD,Karnataka,4,14.69,59.63,59,11.8,Janata Dal
+1991,JD,Andhra Pradesh,4,10.25,61.31,59,11.8,Janata Dal
+1991,JD,Gujarat,2,14.51,61.65,59,11.8,Janata Dal
+1991,JD,Odisha,3,14.69,57.4,59,11.8,Janata Dal
+1991,JD,Telangana,1,11.42,57.64,59,11.8,Janata Dal
+1991,JD,Kerala,1,12.53,61.51,59,11.8,Janata Dal
+1991,JD,Jharkhand,1,13.56,60.78,59,11.8,Janata Dal
+1991,JD,Assam,2,14.56,56.91,59,11.8,Janata Dal
+1991,JD,Punjab,2,13.34,53.32,59,11.8,Janata Dal
+1991,JD,Chhattisgarh,1,13.11,54.17,59,11.8,Janata Dal
+1991,JD,Haryana,1,12.8,53.33,59,11.8,Janata Dal
+1991,JD,Uttarakhand,0,13.43,56.69,59,11.8,Janata Dal
+1991,JD,Delhi,0,8.85,55.27,59,11.8,Janata Dal
+1991,CPM,Uttar Pradesh,8,4.57,58.04,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Maharashtra,2,5.13,60.18,35,6.2,Communist Party of India (Marxist)
+1991,CPM,West Bengal,3,3.77,55.99,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Bihar,1,6.09,58.32,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Tamil Nadu,1,4.93,55.68,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Madhya Pradesh,3,9.16,52.15,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Rajasthan,2,5.43,55.62,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Karnataka,2,8.71,61.21,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Andhra Pradesh,2,5.34,59.58,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Gujarat,1,6.58,55.29,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Odisha,1,4.64,53.62,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Telangana,1,3.81,56.76,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Kerala,1,3.43,52.06,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Jharkhand,0,8.4,54.52,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Assam,1,6.69,56.07,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Punjab,1,6.3,59.29,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Chhattisgarh,0,5.32,60.64,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Haryana,1,8.56,55.89,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Uttarakhand,0,6.06,56.68,35,6.2,Communist Party of India (Marxist)
+1991,CPM,Delhi,0,6.75,53.56,35,6.2,Communist Party of India (Marxist)
+1991,SP,Uttar Pradesh,0,5.53,53.77,5,3.4,Samajwadi Party
+1991,SP,Maharashtra,0,0.81,61.11,5,3.4,Samajwadi Party
+1991,SP,West Bengal,0,2.86,59.81,5,3.4,Samajwadi Party
+1991,SP,Bihar,0,2.39,58.64,5,3.4,Samajwadi Party
+1991,SP,Tamil Nadu,0,4.33,53.22,5,3.4,Samajwadi Party
+1991,SP,Madhya Pradesh,0,3.63,54.52,5,3.4,Samajwadi Party
+1991,SP,Rajasthan,0,0.63,52.98,5,3.4,Samajwadi Party
+1991,SP,Karnataka,0,0.4,55.87,5,3.4,Samajwadi Party
+1991,SP,Andhra Pradesh,0,0.73,61.43,5,3.4,Samajwadi Party
+1991,SP,Gujarat,0,2.23,54.74,5,3.4,Samajwadi Party
+1991,SP,Odisha,0,0.41,58.99,5,3.4,Samajwadi Party
+1991,SP,Telangana,0,1.75,58.33,5,3.4,Samajwadi Party
+1991,SP,Kerala,0,5.49,55.93,5,3.4,Samajwadi Party
+1991,SP,Jharkhand,0,2.35,58.83,5,3.4,Samajwadi Party
+1991,SP,Assam,0,1.49,55.41,5,3.4,Samajwadi Party
+1991,SP,Punjab,0,5.24,61.55,5,3.4,Samajwadi Party
+1991,SP,Chhattisgarh,0,2.76,57.61,5,3.4,Samajwadi Party
+1991,SP,Haryana,0,0.87,57.14,5,3.4,Samajwadi Party
+1991,SP,Uttarakhand,0,1.4,59.51,5,3.4,Samajwadi Party
+1991,SP,Delhi,0,6.11,52.12,5,3.4,Samajwadi Party
+1991,Others,Uttar Pradesh,9,22.61,54.67,80,22.0,Other Parties
+1991,Others,Maharashtra,10,23.55,52.73,80,22.0,Other Parties
+1991,Others,West Bengal,7,22.05,55.39,80,22.0,Other Parties
+1991,Others,Bihar,10,23.97,58.67,80,22.0,Other Parties
+1991,Others,Tamil Nadu,8,21.77,60.91,80,22.0,Other Parties
+1991,Others,Madhya Pradesh,5,23.37,60.32,80,22.0,Other Parties
+1991,Others,Rajasthan,3,23.84,53.65,80,22.0,Other Parties
+1991,Others,Karnataka,3,21.01,61.49,80,22.0,Other Parties
+1991,Others,Andhra Pradesh,5,23.21,58.97,80,22.0,Other Parties
+1991,Others,Gujarat,4,24.68,56.66,80,22.0,Other Parties
+1991,Others,Odisha,3,19.98,59.56,80,22.0,Other Parties
+1991,Others,Telangana,3,21.31,51.95,80,22.0,Other Parties
+1991,Others,Kerala,4,19.07,58.74,80,22.0,Other Parties
+1991,Others,Jharkhand,3,21.63,54.05,80,22.0,Other Parties
+1991,Others,Assam,2,23.9,57.16,80,22.0,Other Parties
+1991,Others,Punjab,3,19.31,56.75,80,22.0,Other Parties
+1991,Others,Chhattisgarh,2,24.18,53.49,80,22.0,Other Parties
+1991,Others,Haryana,2,22.32,55.67,80,22.0,Other Parties
+1991,Others,Uttarakhand,0,24.19,53.27,80,22.0,Other Parties
+1991,Others,Delhi,0,20.74,60.41,80,22.0,Other Parties
+1996,BJP,Uttar Pradesh,32,22.08,55.4,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Maharashtra,18,20.73,61.23,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,West Bengal,20,17.37,59.64,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Bihar,6,20.59,55.78,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Tamil Nadu,10,19.42,59.11,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Madhya Pradesh,8,21.7,56.95,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Rajasthan,4,22.0,55.76,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Karnataka,8,21.41,56.22,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Andhra Pradesh,4,19.54,62.34,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Gujarat,10,21.33,59.22,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Odisha,4,19.81,60.41,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Telangana,3,18.97,55.66,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Kerala,6,23.18,53.58,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Jharkhand,4,18.38,62.61,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Assam,2,19.72,60.28,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Punjab,5,19.84,56.37,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Chhattisgarh,3,18.89,54.95,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Haryana,3,18.91,55.77,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Uttarakhand,2,23.11,58.94,161,20.3,Bharatiya Janata Party (BJP)
+1996,BJP,Delhi,1,17.75,62.41,161,20.3,Bharatiya Janata Party (BJP)
+1996,INC,Uttar Pradesh,18,26.35,58.89,140,28.8,Indian National Congress (INC)
+1996,INC,Maharashtra,16,29.69,55.57,140,28.8,Indian National Congress (INC)
+1996,INC,West Bengal,5,31.59,55.41,140,28.8,Indian National Congress (INC)
+1996,INC,Bihar,14,30.04,59.0,140,28.8,Indian National Congress (INC)
+1996,INC,Tamil Nadu,9,27.43,58.88,140,28.8,Indian National Congress (INC)
+1996,INC,Madhya Pradesh,12,31.48,53.96,140,28.8,Indian National Congress (INC)
+1996,INC,Rajasthan,4,31.47,60.27,140,28.8,Indian National Congress (INC)
+1996,INC,Karnataka,11,27.02,58.78,140,28.8,Indian National Congress (INC)
+1996,INC,Andhra Pradesh,9,29.88,56.98,140,28.8,Indian National Congress (INC)
+1996,INC,Gujarat,3,29.3,55.43,140,28.8,Indian National Congress (INC)
+1996,INC,Odisha,5,31.55,56.89,140,28.8,Indian National Congress (INC)
+1996,INC,Telangana,6,26.93,59.62,140,28.8,Indian National Congress (INC)
+1996,INC,Kerala,9,26.41,52.98,140,28.8,Indian National Congress (INC)
+1996,INC,Jharkhand,3,26.36,60.38,140,28.8,Indian National Congress (INC)
+1996,INC,Assam,6,28.4,55.49,140,28.8,Indian National Congress (INC)
+1996,INC,Punjab,3,30.14,52.99,140,28.8,Indian National Congress (INC)
+1996,INC,Chhattisgarh,3,29.48,59.28,140,28.8,Indian National Congress (INC)
+1996,INC,Haryana,2,30.08,53.81,140,28.8,Indian National Congress (INC)
+1996,INC,Uttarakhand,0,31.06,60.29,140,28.8,Indian National Congress (INC)
+1996,INC,Delhi,0,27.29,55.04,140,28.8,Indian National Congress (INC)
+1996,JD,Uttar Pradesh,5,6.59,53.53,46,8.1,Janata Dal
+1996,JD,Maharashtra,4,9.5,58.97,46,8.1,Janata Dal
+1996,JD,West Bengal,4,5.59,62.41,46,8.1,Janata Dal
+1996,JD,Bihar,5,9.93,61.13,46,8.1,Janata Dal
+1996,JD,Tamil Nadu,5,8.37,54.9,46,8.1,Janata Dal
+1996,JD,Madhya Pradesh,3,9.56,60.28,46,8.1,Janata Dal
+1996,JD,Rajasthan,2,5.51,56.61,46,8.1,Janata Dal
+1996,JD,Karnataka,4,8.61,58.28,46,8.1,Janata Dal
+1996,JD,Andhra Pradesh,1,7.31,61.85,46,8.1,Janata Dal
+1996,JD,Gujarat,3,9.82,57.44,46,8.1,Janata Dal
+1996,JD,Odisha,2,6.59,59.95,46,8.1,Janata Dal
+1996,JD,Telangana,1,7.76,59.39,46,8.1,Janata Dal
+1996,JD,Kerala,2,5.48,61.15,46,8.1,Janata Dal
+1996,JD,Jharkhand,1,7.76,53.12,46,8.1,Janata Dal
+1996,JD,Assam,1,8.12,53.46,46,8.1,Janata Dal
+1996,JD,Punjab,1,10.66,53.95,46,8.1,Janata Dal
+1996,JD,Chhattisgarh,1,7.56,59.45,46,8.1,Janata Dal
+1996,JD,Haryana,0,6.06,54.5,46,8.1,Janata Dal
+1996,JD,Uttarakhand,0,6.21,59.54,46,8.1,Janata Dal
+1996,JD,Delhi,0,9.98,59.75,46,8.1,Janata Dal
+1996,CPM,Uttar Pradesh,3,4.84,56.0,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Maharashtra,2,6.19,58.26,32,6.1,Communist Party of India (Marxist)
+1996,CPM,West Bengal,2,5.22,61.19,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Bihar,3,4.95,62.04,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Tamil Nadu,4,5.06,56.44,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Madhya Pradesh,1,8.75,61.66,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Rajasthan,0,5.46,58.43,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Karnataka,1,4.26,61.49,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Andhra Pradesh,2,8.13,61.49,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Gujarat,2,5.74,59.01,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Odisha,0,7.14,54.69,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Telangana,1,4.48,54.08,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Kerala,0,3.11,60.09,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Jharkhand,1,6.19,54.51,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Assam,0,3.21,54.56,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Punjab,1,4.55,56.44,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Chhattisgarh,0,4.43,58.09,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Haryana,0,4.57,53.48,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Uttarakhand,0,4.51,55.1,32,6.1,Communist Party of India (Marxist)
+1996,CPM,Delhi,0,6.8,58.47,32,6.1,Communist Party of India (Marxist)
+1996,SP,Uttar Pradesh,2,4.77,58.31,17,5.2,Samajwadi Party
+1996,SP,Maharashtra,2,6.41,54.62,17,5.2,Samajwadi Party
+1996,SP,West Bengal,1,4.67,61.61,17,5.2,Samajwadi Party
+1996,SP,Bihar,1,5.4,54.05,17,5.2,Samajwadi Party
+1996,SP,Tamil Nadu,1,2.9,56.27,17,5.2,Samajwadi Party
+1996,SP,Madhya Pradesh,0,6.35,54.96,17,5.2,Samajwadi Party
+1996,SP,Rajasthan,0,7.57,54.94,17,5.2,Samajwadi Party
+1996,SP,Karnataka,1,4.72,53.08,17,5.2,Samajwadi Party
+1996,SP,Andhra Pradesh,1,2.61,57.64,17,5.2,Samajwadi Party
+1996,SP,Gujarat,1,5.97,59.79,17,5.2,Samajwadi Party
+1996,SP,Odisha,0,2.26,60.13,17,5.2,Samajwadi Party
+1996,SP,Telangana,0,7.22,61.11,17,5.2,Samajwadi Party
+1996,SP,Kerala,1,5.11,56.24,17,5.2,Samajwadi Party
+1996,SP,Jharkhand,0,4.91,54.73,17,5.2,Samajwadi Party
+1996,SP,Assam,0,7.5,57.56,17,5.2,Samajwadi Party
+1996,SP,Punjab,0,4.53,60.94,17,5.2,Samajwadi Party
+1996,SP,Chhattisgarh,0,3.42,53.57,17,5.2,Samajwadi Party
+1996,SP,Haryana,0,4.54,58.32,17,5.2,Samajwadi Party
+1996,SP,Uttarakhand,0,2.6,59.38,17,5.2,Samajwadi Party
+1996,SP,Delhi,0,4.45,60.94,17,5.2,Samajwadi Party
+1996,TDP,Uttar Pradesh,2,5.98,58.49,16,3.0,Telugu Desam Party
+1996,TDP,Maharashtra,1,1.32,56.41,16,3.0,Telugu Desam Party
+1996,TDP,West Bengal,1,0.41,56.6,16,3.0,Telugu Desam Party
+1996,TDP,Bihar,1,4.34,59.47,16,3.0,Telugu Desam Party
+1996,TDP,Tamil Nadu,1,0.05,55.08,16,3.0,Telugu Desam Party
+1996,TDP,Madhya Pradesh,1,2.9,52.95,16,3.0,Telugu Desam Party
+1996,TDP,Rajasthan,1,4.64,58.38,16,3.0,Telugu Desam Party
+1996,TDP,Karnataka,0,4.6,58.74,16,3.0,Telugu Desam Party
+1996,TDP,Andhra Pradesh,1,4.51,60.93,16,3.0,Telugu Desam Party
+1996,TDP,Gujarat,0,0.84,59.61,16,3.0,Telugu Desam Party
+1996,TDP,Odisha,0,4.45,54.6,16,3.0,Telugu Desam Party
+1996,TDP,Telangana,0,5.34,60.4,16,3.0,Telugu Desam Party
+1996,TDP,Kerala,0,4.55,58.87,16,3.0,Telugu Desam Party
+1996,TDP,Jharkhand,0,5.33,58.69,16,3.0,Telugu Desam Party
+1996,TDP,Assam,0,0.94,57.64,16,3.0,Telugu Desam Party
+1996,TDP,Punjab,0,1.63,54.92,16,3.0,Telugu Desam Party
+1996,TDP,Chhattisgarh,0,1.45,55.05,16,3.0,Telugu Desam Party
+1996,TDP,Haryana,0,5.45,57.97,16,3.0,Telugu Desam Party
+1996,TDP,Uttarakhand,0,0.46,59.86,16,3.0,Telugu Desam Party
+1996,TDP,Delhi,0,4.93,59.5,16,3.0,Telugu Desam Party
+1996,Others,Uttar Pradesh,29,27.13,59.82,130,28.5,Other Parties
+1996,Others,Maharashtra,9,31.13,59.26,130,28.5,Other Parties
+1996,Others,West Bengal,9,27.12,54.81,130,28.5,Other Parties
+1996,Others,Bihar,13,26.81,58.85,130,28.5,Other Parties
+1996,Others,Tamil Nadu,7,29.47,61.05,130,28.5,Other Parties
+1996,Others,Madhya Pradesh,10,30.07,54.78,130,28.5,Other Parties
+1996,Others,Rajasthan,3,29.69,56.58,130,28.5,Other Parties
+1996,Others,Karnataka,7,25.69,55.5,130,28.5,Other Parties
+1996,Others,Andhra Pradesh,3,30.78,55.33,130,28.5,Other Parties
+1996,Others,Gujarat,7,25.73,59.57,130,28.5,Other Parties
+1996,Others,Odisha,4,30.89,61.78,130,28.5,Other Parties
+1996,Others,Telangana,3,30.91,62.86,130,28.5,Other Parties
+1996,Others,Kerala,7,30.57,55.39,130,28.5,Other Parties
+1996,Others,Jharkhand,4,25.9,53.85,130,28.5,Other Parties
+1996,Others,Assam,6,27.46,60.38,130,28.5,Other Parties
+1996,Others,Punjab,4,30.65,62.88,130,28.5,Other Parties
+1996,Others,Chhattisgarh,2,25.74,57.01,130,28.5,Other Parties
+1996,Others,Haryana,1,25.63,56.5,130,28.5,Other Parties
+1996,Others,Uttarakhand,1,28.9,56.03,130,28.5,Other Parties
+1996,Others,Delhi,2,26.89,53.04,130,28.5,Other Parties
+1998,BJP,Uttar Pradesh,40,26.34,64.52,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Maharashtra,8,27.62,63.1,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,West Bengal,17,26.35,65.54,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Bihar,16,26.09,66.81,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Tamil Nadu,19,25.25,63.97,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Madhya Pradesh,9,23.97,62.87,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Rajasthan,14,28.17,60.32,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Karnataka,11,23.87,66.86,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Andhra Pradesh,14,26.5,64.94,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Gujarat,12,26.16,57.43,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Odisha,7,26.65,63.68,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Telangana,5,28.25,58.57,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Kerala,7,26.75,63.87,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Jharkhand,6,24.25,58.46,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Assam,6,26.2,58.69,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Punjab,6,25.33,63.58,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Chhattisgarh,5,23.62,57.09,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Haryana,5,26.26,63.9,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Uttarakhand,2,27.42,66.51,182,25.6,Bharatiya Janata Party (BJP)
+1998,BJP,Delhi,2,25.53,60.92,182,25.6,Bharatiya Janata Party (BJP)
+1998,INC,Uttar Pradesh,14,26.24,59.67,141,25.8,Indian National Congress (INC)
+1998,INC,Maharashtra,21,26.3,62.83,141,25.8,Indian National Congress (INC)
+1998,INC,West Bengal,10,23.11,57.22,141,25.8,Indian National Congress (INC)
+1998,INC,Bihar,10,23.31,62.97,141,25.8,Indian National Congress (INC)
+1998,INC,Tamil Nadu,16,28.1,63.49,141,25.8,Indian National Congress (INC)
+1998,INC,Madhya Pradesh,5,27.98,65.76,141,25.8,Indian National Congress (INC)
+1998,INC,Rajasthan,4,27.22,59.77,141,25.8,Indian National Congress (INC)
+1998,INC,Karnataka,11,28.78,57.2,141,25.8,Indian National Congress (INC)
+1998,INC,Andhra Pradesh,10,26.54,66.63,141,25.8,Indian National Congress (INC)
+1998,INC,Gujarat,7,27.88,57.52,141,25.8,Indian National Congress (INC)
+1998,INC,Odisha,5,23.2,66.65,141,25.8,Indian National Congress (INC)
+1998,INC,Telangana,6,27.92,66.28,141,25.8,Indian National Congress (INC)
+1998,INC,Kerala,3,25.11,57.61,141,25.8,Indian National Congress (INC)
+1998,INC,Jharkhand,2,24.18,61.59,141,25.8,Indian National Congress (INC)
+1998,INC,Assam,3,23.41,58.57,141,25.8,Indian National Congress (INC)
+1998,INC,Punjab,2,28.64,64.49,141,25.8,Indian National Congress (INC)
+1998,INC,Chhattisgarh,5,25.44,59.68,141,25.8,Indian National Congress (INC)
+1998,INC,Haryana,4,24.76,59.89,141,25.8,Indian National Congress (INC)
+1998,INC,Uttarakhand,1,23.58,59.46,141,25.8,Indian National Congress (INC)
+1998,INC,Delhi,1,26.84,57.53,141,25.8,Indian National Congress (INC)
+1998,CPM,Uttar Pradesh,3,7.05,58.37,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Maharashtra,2,7.39,58.45,32,5.2,Communist Party of India (Marxist)
+1998,CPM,West Bengal,1,5.11,59.92,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Bihar,2,7.02,58.27,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Tamil Nadu,2,5.23,58.34,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Madhya Pradesh,2,3.84,61.78,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Rajasthan,0,4.96,59.96,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Karnataka,2,2.54,61.09,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Andhra Pradesh,1,6.55,62.64,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Gujarat,2,6.86,65.52,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Odisha,1,5.43,65.3,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Telangana,1,7.54,60.61,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Kerala,0,5.14,64.32,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Jharkhand,0,5.1,65.28,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Assam,0,7.36,60.97,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Punjab,0,4.92,64.52,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Chhattisgarh,0,3.38,66.41,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Haryana,0,5.61,62.69,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Uttarakhand,0,6.07,59.2,32,5.2,Communist Party of India (Marxist)
+1998,CPM,Delhi,0,4.43,63.52,32,5.2,Communist Party of India (Marxist)
+1998,SP,Uttar Pradesh,2,5.33,58.75,20,4.9,Samajwadi Party
+1998,SP,Maharashtra,1,3.21,58.73,20,4.9,Samajwadi Party
+1998,SP,West Bengal,2,3.61,66.17,20,4.9,Samajwadi Party
+1998,SP,Bihar,2,5.33,58.33,20,4.9,Samajwadi Party
+1998,SP,Tamil Nadu,1,6.69,60.57,20,4.9,Samajwadi Party
+1998,SP,Madhya Pradesh,0,5.24,65.35,20,4.9,Samajwadi Party
+1998,SP,Rajasthan,1,2.95,63.63,20,4.9,Samajwadi Party
+1998,SP,Karnataka,0,3.21,65.64,20,4.9,Samajwadi Party
+1998,SP,Andhra Pradesh,0,3.48,56.91,20,4.9,Samajwadi Party
+1998,SP,Gujarat,1,6.66,63.17,20,4.9,Samajwadi Party
+1998,SP,Odisha,1,2.81,61.48,20,4.9,Samajwadi Party
+1998,SP,Telangana,0,2.46,61.76,20,4.9,Samajwadi Party
+1998,SP,Kerala,1,2.14,59.81,20,4.9,Samajwadi Party
+1998,SP,Jharkhand,0,3.33,65.98,20,4.9,Samajwadi Party
+1998,SP,Assam,0,4.7,64.51,20,4.9,Samajwadi Party
+1998,SP,Punjab,0,4.82,61.2,20,4.9,Samajwadi Party
+1998,SP,Chhattisgarh,0,7.9,64.59,20,4.9,Samajwadi Party
+1998,SP,Haryana,0,6.87,58.61,20,4.9,Samajwadi Party
+1998,SP,Uttarakhand,0,3.13,60.3,20,4.9,Samajwadi Party
+1998,SP,Delhi,0,5.59,66.01,20,4.9,Samajwadi Party
+1998,RJD,Uttar Pradesh,2,3.51,57.4,17,3.5,Rashtriya Janata Dal
+1998,RJD,Maharashtra,0,3.81,61.28,17,3.5,Rashtriya Janata Dal
+1998,RJD,West Bengal,2,1.46,57.15,17,3.5,Rashtriya Janata Dal
+1998,RJD,Bihar,1,1.92,57.4,17,3.5,Rashtriya Janata Dal
+1998,RJD,Tamil Nadu,1,1.17,62.98,17,3.5,Rashtriya Janata Dal
+1998,RJD,Madhya Pradesh,0,1.54,60.7,17,3.5,Rashtriya Janata Dal
+1998,RJD,Rajasthan,1,2.85,64.41,17,3.5,Rashtriya Janata Dal
+1998,RJD,Karnataka,0,5.14,59.27,17,3.5,Rashtriya Janata Dal
+1998,RJD,Andhra Pradesh,1,3.89,66.19,17,3.5,Rashtriya Janata Dal
+1998,RJD,Gujarat,0,0.9,57.09,17,3.5,Rashtriya Janata Dal
+1998,RJD,Odisha,1,3.65,64.65,17,3.5,Rashtriya Janata Dal
+1998,RJD,Telangana,0,2.57,57.2,17,3.5,Rashtriya Janata Dal
+1998,RJD,Kerala,1,4.51,66.23,17,3.5,Rashtriya Janata Dal
+1998,RJD,Jharkhand,0,4.17,63.68,17,3.5,Rashtriya Janata Dal
+1998,RJD,Assam,0,5.59,66.37,17,3.5,Rashtriya Janata Dal
+1998,RJD,Punjab,0,4.93,59.67,17,3.5,Rashtriya Janata Dal
+1998,RJD,Chhattisgarh,0,6.28,57.0,17,3.5,Rashtriya Janata Dal
+1998,RJD,Haryana,0,4.74,63.13,17,3.5,Rashtriya Janata Dal
+1998,RJD,Uttarakhand,0,2.37,60.3,17,3.5,Rashtriya Janata Dal
+1998,RJD,Delhi,0,3.16,59.51,17,3.5,Rashtriya Janata Dal
+1998,TDP,Uttar Pradesh,1,4.81,66.25,12,2.8,Telugu Desam Party
+1998,TDP,Maharashtra,0,2.04,66.19,12,2.8,Telugu Desam Party
+1998,TDP,West Bengal,0,0.35,58.53,12,2.8,Telugu Desam Party
+1998,TDP,Bihar,1,0.7,66.58,12,2.8,Telugu Desam Party
+1998,TDP,Tamil Nadu,0,2.81,59.37,12,2.8,Telugu Desam Party
+1998,TDP,Madhya Pradesh,0,3.77,64.41,12,2.8,Telugu Desam Party
+1998,TDP,Rajasthan,0,3.27,65.94,12,2.8,Telugu Desam Party
+1998,TDP,Karnataka,0,4.34,57.46,12,2.8,Telugu Desam Party
+1998,TDP,Andhra Pradesh,0,1.07,63.54,12,2.8,Telugu Desam Party
+1998,TDP,Gujarat,0,2.21,65.75,12,2.8,Telugu Desam Party
+1998,TDP,Odisha,0,5.26,60.04,12,2.8,Telugu Desam Party
+1998,TDP,Telangana,0,1.43,58.81,12,2.8,Telugu Desam Party
+1998,TDP,Kerala,0,1.85,61.2,12,2.8,Telugu Desam Party
+1998,TDP,Jharkhand,0,0.52,64.25,12,2.8,Telugu Desam Party
+1998,TDP,Assam,0,1.53,61.83,12,2.8,Telugu Desam Party
+1998,TDP,Punjab,0,3.38,61.24,12,2.8,Telugu Desam Party
+1998,TDP,Chhattisgarh,0,0.5,62.37,12,2.8,Telugu Desam Party
+1998,TDP,Haryana,0,1.86,64.23,12,2.8,Telugu Desam Party
+1998,TDP,Uttarakhand,0,5.39,65.11,12,2.8,Telugu Desam Party
+1998,TDP,Delhi,0,3.74,65.88,12,2.8,Telugu Desam Party
+1998,Others,Uttar Pradesh,20,31.16,57.01,138,32.2,Other Parties
+1998,Others,Maharashtra,19,34.01,57.94,138,32.2,Other Parties
+1998,Others,West Bengal,13,31.98,58.09,138,32.2,Other Parties
+1998,Others,Bihar,18,30.49,57.57,138,32.2,Other Parties
+1998,Others,Tamil Nadu,12,33.63,57.22,138,32.2,Other Parties
+1998,Others,Madhya Pradesh,10,32.39,57.93,138,32.2,Other Parties
+1998,Others,Rajasthan,4,32.61,59.86,138,32.2,Other Parties
+1998,Others,Karnataka,12,34.11,66.74,138,32.2,Other Parties
+1998,Others,Andhra Pradesh,5,35.02,61.21,138,32.2,Other Parties
+1998,Others,Gujarat,6,29.5,57.43,138,32.2,Other Parties
+1998,Others,Odisha,7,31.95,59.17,138,32.2,Other Parties
+1998,Others,Telangana,5,30.72,62.68,138,32.2,Other Parties
+1998,Others,Kerala,4,34.14,65.11,138,32.2,Other Parties
+1998,Others,Jharkhand,3,31.3,60.53,138,32.2,Other Parties
+1998,Others,Assam,5,31.17,58.99,138,32.2,Other Parties
+1998,Others,Punjab,2,32.0,61.72,138,32.2,Other Parties
+1998,Others,Chhattisgarh,4,30.53,60.71,138,32.2,Other Parties
+1998,Others,Haryana,3,34.14,60.75,138,32.2,Other Parties
+1998,Others,Uttarakhand,1,31.02,66.23,138,32.2,Other Parties
+1998,Others,Delhi,1,34.8,63.74,138,32.2,Other Parties
+1999,BJP,Uttar Pradesh,31,21.0,59.66,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Maharashtra,16,21.77,61.46,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,West Bengal,24,24.17,62.05,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Bihar,7,23.31,56.06,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Tamil Nadu,16,26.43,61.52,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Madhya Pradesh,5,22.93,60.41,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Rajasthan,8,25.8,63.05,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Karnataka,12,23.04,57.45,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Andhra Pradesh,5,22.93,59.03,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Gujarat,12,24.75,55.6,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Odisha,7,21.89,56.47,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Telangana,8,21.05,59.09,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Kerala,4,26.08,60.47,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Jharkhand,3,23.81,62.21,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Assam,8,22.12,63.76,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Punjab,7,26.3,61.25,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Chhattisgarh,4,23.22,62.42,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Haryana,3,24.86,59.18,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Uttarakhand,2,25.75,56.36,182,23.8,Bharatiya Janata Party (BJP)
+1999,BJP,Delhi,3,24.04,63.35,182,23.8,Bharatiya Janata Party (BJP)
+1999,INC,Uttar Pradesh,17,27.57,64.05,114,28.3,Indian National Congress (INC)
+1999,INC,Maharashtra,8,30.37,59.74,114,28.3,Indian National Congress (INC)
+1999,INC,West Bengal,10,27.15,60.63,114,28.3,Indian National Congress (INC)
+1999,INC,Bihar,7,25.54,57.62,114,28.3,Indian National Congress (INC)
+1999,INC,Tamil Nadu,4,31.17,64.56,114,28.3,Indian National Congress (INC)
+1999,INC,Madhya Pradesh,6,29.67,58.36,114,28.3,Indian National Congress (INC)
+1999,INC,Rajasthan,7,30.13,64.37,114,28.3,Indian National Congress (INC)
+1999,INC,Karnataka,5,30.0,57.56,114,28.3,Indian National Congress (INC)
+1999,INC,Andhra Pradesh,9,25.45,60.94,114,28.3,Indian National Congress (INC)
+1999,INC,Gujarat,7,29.43,56.1,114,28.3,Indian National Congress (INC)
+1999,INC,Odisha,7,26.39,61.13,114,28.3,Indian National Congress (INC)
+1999,INC,Telangana,2,27.14,60.36,114,28.3,Indian National Congress (INC)
+1999,INC,Kerala,4,26.26,56.61,114,28.3,Indian National Congress (INC)
+1999,INC,Jharkhand,3,29.84,63.88,114,28.3,Indian National Congress (INC)
+1999,INC,Assam,1,27.66,55.9,114,28.3,Indian National Congress (INC)
+1999,INC,Punjab,1,29.27,60.92,114,28.3,Indian National Congress (INC)
+1999,INC,Chhattisgarh,1,26.7,55.14,114,28.3,Indian National Congress (INC)
+1999,INC,Haryana,3,31.15,56.25,114,28.3,Indian National Congress (INC)
+1999,INC,Uttarakhand,0,30.51,64.16,114,28.3,Indian National Congress (INC)
+1999,INC,Delhi,1,25.6,55.29,114,28.3,Indian National Congress (INC)
+1999,CPM,Uttar Pradesh,6,4.76,55.19,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Maharashtra,3,2.47,62.77,33,5.4,Communist Party of India (Marxist)
+1999,CPM,West Bengal,2,2.64,60.78,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Bihar,2,8.24,60.34,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Tamil Nadu,2,6.66,57.61,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Madhya Pradesh,2,4.65,60.4,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Rajasthan,0,4.96,63.22,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Karnataka,2,3.75,57.16,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Andhra Pradesh,2,7.98,55.85,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Gujarat,1,4.42,63.61,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Odisha,0,3.67,62.42,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Telangana,0,5.36,59.32,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Kerala,1,4.77,60.2,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Jharkhand,0,5.83,62.95,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Assam,1,3.32,56.39,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Punjab,0,4.57,58.98,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Chhattisgarh,0,2.74,55.25,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Haryana,0,6.58,56.83,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Uttarakhand,0,3.96,63.76,33,5.4,Communist Party of India (Marxist)
+1999,CPM,Delhi,0,4.18,57.2,33,5.4,Communist Party of India (Marxist)
+1999,SP,Uttar Pradesh,3,3.04,61.62,26,4.6,Samajwadi Party
+1999,SP,Maharashtra,3,5.64,63.14,26,4.6,Samajwadi Party
+1999,SP,West Bengal,2,2.54,62.28,26,4.6,Samajwadi Party
+1999,SP,Bihar,1,5.63,57.61,26,4.6,Samajwadi Party
+1999,SP,Tamil Nadu,1,7.56,56.46,26,4.6,Samajwadi Party
+1999,SP,Madhya Pradesh,2,7.46,62.84,26,4.6,Samajwadi Party
+1999,SP,Rajasthan,1,5.07,63.56,26,4.6,Samajwadi Party
+1999,SP,Karnataka,1,4.41,61.09,26,4.6,Samajwadi Party
+1999,SP,Andhra Pradesh,1,4.16,58.2,26,4.6,Samajwadi Party
+1999,SP,Gujarat,1,6.7,56.92,26,4.6,Samajwadi Party
+1999,SP,Odisha,1,5.73,63.13,26,4.6,Samajwadi Party
+1999,SP,Telangana,0,6.28,55.06,26,4.6,Samajwadi Party
+1999,SP,Kerala,1,1.84,63.8,26,4.6,Samajwadi Party
+1999,SP,Jharkhand,1,3.36,57.0,26,4.6,Samajwadi Party
+1999,SP,Assam,1,3.12,63.56,26,4.6,Samajwadi Party
+1999,SP,Punjab,0,2.36,64.69,26,4.6,Samajwadi Party
+1999,SP,Chhattisgarh,0,6.68,58.14,26,4.6,Samajwadi Party
+1999,SP,Haryana,0,5.17,60.93,26,4.6,Samajwadi Party
+1999,SP,Uttarakhand,0,5.05,59.19,26,4.6,Samajwadi Party
+1999,SP,Delhi,0,6.21,57.16,26,4.6,Samajwadi Party
+1999,DMK,Uttar Pradesh,2,0.3,61.15,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Maharashtra,1,0.21,55.5,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,West Bengal,0,2.54,63.39,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Bihar,0,3.3,58.31,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Tamil Nadu,0,4.47,58.22,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Madhya Pradesh,0,-1.02,55.72,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Rajasthan,0,-0.93,61.21,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Karnataka,0,2.19,56.65,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Andhra Pradesh,0,2.88,64.55,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Gujarat,0,4.24,60.67,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Odisha,0,1.9,55.59,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Telangana,0,2.51,58.31,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Kerala,0,1.34,56.33,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Jharkhand,0,0.66,60.15,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Assam,0,4.3,62.82,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Punjab,0,2.98,64.36,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Chhattisgarh,0,-1.09,57.62,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Haryana,0,2.87,61.24,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Uttarakhand,0,-1.0,62.19,12,1.9,Dravida Munnetra Kazhagam
+1999,DMK,Delhi,0,2.89,60.47,12,1.9,Dravida Munnetra Kazhagam
+1999,TDP,Uttar Pradesh,4,1.31,55.84,29,3.5,Telugu Desam Party
+1999,TDP,Maharashtra,4,6.01,61.4,29,3.5,Telugu Desam Party
+1999,TDP,West Bengal,1,2.91,62.19,29,3.5,Telugu Desam Party
+1999,TDP,Bihar,3,1.21,54.9,29,3.5,Telugu Desam Party
+1999,TDP,Tamil Nadu,2,2.64,57.44,29,3.5,Telugu Desam Party
+1999,TDP,Madhya Pradesh,0,3.74,63.41,29,3.5,Telugu Desam Party
+1999,TDP,Rajasthan,2,3.89,60.04,29,3.5,Telugu Desam Party
+1999,TDP,Karnataka,0,3.79,58.7,29,3.5,Telugu Desam Party
+1999,TDP,Andhra Pradesh,1,2.83,57.3,29,3.5,Telugu Desam Party
+1999,TDP,Gujarat,0,2.39,55.87,29,3.5,Telugu Desam Party
+1999,TDP,Odisha,0,6.42,59.34,29,3.5,Telugu Desam Party
+1999,TDP,Telangana,1,5.74,64.86,29,3.5,Telugu Desam Party
+1999,TDP,Kerala,1,5.37,58.17,29,3.5,Telugu Desam Party
+1999,TDP,Jharkhand,0,2.92,61.63,29,3.5,Telugu Desam Party
+1999,TDP,Assam,1,2.39,56.23,29,3.5,Telugu Desam Party
+1999,TDP,Punjab,0,1.27,60.68,29,3.5,Telugu Desam Party
+1999,TDP,Chhattisgarh,0,4.7,62.43,29,3.5,Telugu Desam Party
+1999,TDP,Haryana,0,3.5,62.2,29,3.5,Telugu Desam Party
+1999,TDP,Uttarakhand,0,1.62,55.16,29,3.5,Telugu Desam Party
+1999,TDP,Delhi,0,3.16,61.07,29,3.5,Telugu Desam Party
+1999,Others,Uttar Pradesh,34,30.68,56.16,147,32.5,Other Parties
+1999,Others,Maharashtra,22,30.15,59.68,147,32.5,Other Parties
+1999,Others,West Bengal,14,32.75,55.76,147,32.5,Other Parties
+1999,Others,Bihar,6,30.13,60.76,147,32.5,Other Parties
+1999,Others,Tamil Nadu,12,30.9,61.28,147,32.5,Other Parties
+1999,Others,Madhya Pradesh,12,29.75,59.88,147,32.5,Other Parties
+1999,Others,Rajasthan,9,31.01,57.98,147,32.5,Other Parties
+1999,Others,Karnataka,9,34.89,63.0,147,32.5,Other Parties
+1999,Others,Andhra Pradesh,8,33.88,58.55,147,32.5,Other Parties
+1999,Others,Gujarat,9,32.3,56.8,147,32.5,Other Parties
+1999,Others,Odisha,8,32.84,58.49,147,32.5,Other Parties
+1999,Others,Telangana,7,29.63,58.06,147,32.5,Other Parties
+1999,Others,Kerala,3,34.1,61.92,147,32.5,Other Parties
+1999,Others,Jharkhand,3,33.55,58.86,147,32.5,Other Parties
+1999,Others,Assam,5,32.23,59.02,147,32.5,Other Parties
+1999,Others,Punjab,6,31.01,56.1,147,32.5,Other Parties
+1999,Others,Chhattisgarh,3,35.32,58.68,147,32.5,Other Parties
+1999,Others,Haryana,1,31.54,59.96,147,32.5,Other Parties
+1999,Others,Uttarakhand,0,33.45,64.88,147,32.5,Other Parties
+1999,Others,Delhi,2,31.63,58.91,147,32.5,Other Parties
+2004,INC,Uttar Pradesh,13,28.8,57.25,145,26.5,Indian National Congress (INC)
+2004,INC,Maharashtra,12,27.46,57.52,145,26.5,Indian National Congress (INC)
+2004,INC,West Bengal,15,23.87,61.24,145,26.5,Indian National Congress (INC)
+2004,INC,Bihar,18,27.39,62.65,145,26.5,Indian National Congress (INC)
+2004,INC,Tamil Nadu,7,26.36,59.12,145,26.5,Indian National Congress (INC)
+2004,INC,Madhya Pradesh,9,25.91,56.48,145,26.5,Indian National Congress (INC)
+2004,INC,Rajasthan,4,25.85,54.73,145,26.5,Indian National Congress (INC)
+2004,INC,Karnataka,10,24.75,53.69,145,26.5,Indian National Congress (INC)
+2004,INC,Andhra Pradesh,8,27.07,61.82,145,26.5,Indian National Congress (INC)
+2004,INC,Gujarat,8,25.57,61.13,145,26.5,Indian National Congress (INC)
+2004,INC,Odisha,6,23.98,58.76,145,26.5,Indian National Congress (INC)
+2004,INC,Telangana,7,25.88,56.06,145,26.5,Indian National Congress (INC)
+2004,INC,Kerala,3,24.41,57.43,145,26.5,Indian National Congress (INC)
+2004,INC,Jharkhand,4,23.98,62.5,145,26.5,Indian National Congress (INC)
+2004,INC,Assam,5,27.02,61.38,145,26.5,Indian National Congress (INC)
+2004,INC,Punjab,2,26.36,59.4,145,26.5,Indian National Congress (INC)
+2004,INC,Chhattisgarh,4,28.2,55.87,145,26.5,Indian National Congress (INC)
+2004,INC,Haryana,4,24.25,61.85,145,26.5,Indian National Congress (INC)
+2004,INC,Uttarakhand,2,24.56,60.32,145,26.5,Indian National Congress (INC)
+2004,INC,Delhi,1,25.93,58.26,145,26.5,Indian National Congress (INC)
+2004,BJP,Uttar Pradesh,25,24.82,59.82,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Maharashtra,13,24.06,62.61,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,West Bengal,5,25.1,53.96,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Bihar,15,20.88,54.42,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Tamil Nadu,10,23.06,56.91,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Madhya Pradesh,4,22.8,62.12,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Rajasthan,6,20.5,57.53,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Karnataka,4,24.12,61.36,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Andhra Pradesh,8,21.32,61.1,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Gujarat,8,24.16,59.41,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Odisha,8,22.79,57.24,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Telangana,7,22.45,59.15,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Kerala,3,22.95,58.82,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Jharkhand,2,19.56,59.14,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Assam,5,22.34,55.37,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Punjab,4,19.68,57.52,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Chhattisgarh,1,20.31,55.12,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Haryana,2,19.51,57.08,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Uttarakhand,1,22.1,56.93,138,22.2,Bharatiya Janata Party (BJP)
+2004,BJP,Delhi,2,20.07,58.16,138,22.2,Bharatiya Janata Party (BJP)
+2004,CPM,Uttar Pradesh,3,3.13,58.84,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Maharashtra,4,7.97,58.68,43,5.7,Communist Party of India (Marxist)
+2004,CPM,West Bengal,5,2.99,54.08,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Bihar,1,3.81,58.51,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Tamil Nadu,4,2.97,62.56,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Madhya Pradesh,3,4.48,53.87,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Rajasthan,1,3.46,54.33,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Karnataka,2,4.18,56.68,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Andhra Pradesh,3,6.81,62.59,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Gujarat,1,4.99,58.65,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Odisha,0,2.73,59.8,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Telangana,1,5.16,58.0,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Kerala,1,2.84,56.45,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Jharkhand,0,3.29,62.67,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Assam,1,7.07,56.25,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Punjab,1,4.12,54.07,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Chhattisgarh,0,7.49,59.88,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Haryana,0,5.55,62.32,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Uttarakhand,0,4.38,56.6,43,5.7,Communist Party of India (Marxist)
+2004,CPM,Delhi,0,8.66,55.51,43,5.7,Communist Party of India (Marxist)
+2004,SP,Uttar Pradesh,8,6.28,55.35,36,4.3,Samajwadi Party
+2004,SP,Maharashtra,3,3.76,62.88,36,4.3,Samajwadi Party
+2004,SP,West Bengal,2,6.09,56.44,36,4.3,Samajwadi Party
+2004,SP,Bihar,3,3.82,58.88,36,4.3,Samajwadi Party
+2004,SP,Tamil Nadu,4,6.12,61.76,36,4.3,Samajwadi Party
+2004,SP,Madhya Pradesh,1,5.45,54.5,36,4.3,Samajwadi Party
+2004,SP,Rajasthan,1,4.59,57.13,36,4.3,Samajwadi Party
+2004,SP,Karnataka,2,7.28,54.45,36,4.3,Samajwadi Party
+2004,SP,Andhra Pradesh,2,3.68,54.43,36,4.3,Samajwadi Party
+2004,SP,Gujarat,1,7.0,61.9,36,4.3,Samajwadi Party
+2004,SP,Odisha,2,7.25,55.18,36,4.3,Samajwadi Party
+2004,SP,Telangana,1,5.32,57.94,36,4.3,Samajwadi Party
+2004,SP,Kerala,1,3.45,59.04,36,4.3,Samajwadi Party
+2004,SP,Jharkhand,1,2.27,57.82,36,4.3,Samajwadi Party
+2004,SP,Assam,1,4.72,55.2,36,4.3,Samajwadi Party
+2004,SP,Punjab,1,1.45,56.65,36,4.3,Samajwadi Party
+2004,SP,Chhattisgarh,1,4.68,55.71,36,4.3,Samajwadi Party
+2004,SP,Haryana,0,4.7,61.06,36,4.3,Samajwadi Party
+2004,SP,Uttarakhand,0,4.96,57.98,36,4.3,Samajwadi Party
+2004,SP,Delhi,0,2.87,57.29,36,4.3,Samajwadi Party
+2004,BSP,Uttar Pradesh,3,5.38,55.98,19,5.3,Bahujan Samaj Party
+2004,BSP,Maharashtra,0,5.28,55.96,19,5.3,Bahujan Samaj Party
+2004,BSP,West Bengal,2,2.44,58.95,19,5.3,Bahujan Samaj Party
+2004,BSP,Bihar,2,3.35,57.82,19,5.3,Bahujan Samaj Party
+2004,BSP,Tamil Nadu,0,6.05,58.61,19,5.3,Bahujan Samaj Party
+2004,BSP,Madhya Pradesh,1,5.43,62.07,19,5.3,Bahujan Samaj Party
+2004,BSP,Rajasthan,0,2.44,61.72,19,5.3,Bahujan Samaj Party
+2004,BSP,Karnataka,1,7.64,59.07,19,5.3,Bahujan Samaj Party
+2004,BSP,Andhra Pradesh,1,4.88,60.6,19,5.3,Bahujan Samaj Party
+2004,BSP,Gujarat,1,5.73,54.91,19,5.3,Bahujan Samaj Party
+2004,BSP,Odisha,0,3.49,55.57,19,5.3,Bahujan Samaj Party
+2004,BSP,Telangana,0,5.63,58.98,19,5.3,Bahujan Samaj Party
+2004,BSP,Kerala,0,5.99,53.92,19,5.3,Bahujan Samaj Party
+2004,BSP,Jharkhand,0,3.33,58.28,19,5.3,Bahujan Samaj Party
+2004,BSP,Assam,0,4.0,57.1,19,5.3,Bahujan Samaj Party
+2004,BSP,Punjab,0,2.38,59.59,19,5.3,Bahujan Samaj Party
+2004,BSP,Chhattisgarh,0,7.09,62.43,19,5.3,Bahujan Samaj Party
+2004,BSP,Haryana,0,3.22,61.96,19,5.3,Bahujan Samaj Party
+2004,BSP,Uttarakhand,0,5.69,59.73,19,5.3,Bahujan Samaj Party
+2004,BSP,Delhi,0,7.89,63.07,19,5.3,Bahujan Samaj Party
+2004,RJD,Uttar Pradesh,5,1.82,61.9,24,3.1,Rashtriya Janata Dal
+2004,RJD,Maharashtra,1,1.49,62.07,24,3.1,Rashtriya Janata Dal
+2004,RJD,West Bengal,1,1.42,54.48,24,3.1,Rashtriya Janata Dal
+2004,RJD,Bihar,2,3.1,59.85,24,3.1,Rashtriya Janata Dal
+2004,RJD,Tamil Nadu,1,4.65,60.7,24,3.1,Rashtriya Janata Dal
+2004,RJD,Madhya Pradesh,1,2.56,55.2,24,3.1,Rashtriya Janata Dal
+2004,RJD,Rajasthan,1,3.97,62.45,24,3.1,Rashtriya Janata Dal
+2004,RJD,Karnataka,1,4.79,60.76,24,3.1,Rashtriya Janata Dal
+2004,RJD,Andhra Pradesh,1,5.89,57.04,24,3.1,Rashtriya Janata Dal
+2004,RJD,Gujarat,0,4.13,60.39,24,3.1,Rashtriya Janata Dal
+2004,RJD,Odisha,1,1.34,58.14,24,3.1,Rashtriya Janata Dal
+2004,RJD,Telangana,0,2.66,59.55,24,3.1,Rashtriya Janata Dal
+2004,RJD,Kerala,1,1.49,57.15,24,3.1,Rashtriya Janata Dal
+2004,RJD,Jharkhand,0,1.29,60.93,24,3.1,Rashtriya Janata Dal
+2004,RJD,Assam,1,2.32,60.61,24,3.1,Rashtriya Janata Dal
+2004,RJD,Punjab,0,5.18,54.93,24,3.1,Rashtriya Janata Dal
+2004,RJD,Chhattisgarh,0,2.36,56.49,24,3.1,Rashtriya Janata Dal
+2004,RJD,Haryana,0,3.02,54.19,24,3.1,Rashtriya Janata Dal
+2004,RJD,Uttarakhand,0,2.0,61.19,24,3.1,Rashtriya Janata Dal
+2004,RJD,Delhi,0,1.91,61.69,24,3.1,Rashtriya Janata Dal
+2004,NCP,Uttar Pradesh,2,3.39,54.57,9,1.8,Nationalist Congress Party
+2004,NCP,Maharashtra,1,4.47,59.93,9,1.8,Nationalist Congress Party
+2004,NCP,West Bengal,0,1.8,59.56,9,1.8,Nationalist Congress Party
+2004,NCP,Bihar,0,-0.48,56.22,9,1.8,Nationalist Congress Party
+2004,NCP,Tamil Nadu,0,3.97,54.47,9,1.8,Nationalist Congress Party
+2004,NCP,Madhya Pradesh,0,0.77,59.72,9,1.8,Nationalist Congress Party
+2004,NCP,Rajasthan,0,3.67,62.56,9,1.8,Nationalist Congress Party
+2004,NCP,Karnataka,0,3.95,54.42,9,1.8,Nationalist Congress Party
+2004,NCP,Andhra Pradesh,0,3.25,59.88,9,1.8,Nationalist Congress Party
+2004,NCP,Gujarat,0,4.04,54.79,9,1.8,Nationalist Congress Party
+2004,NCP,Odisha,0,3.1,57.85,9,1.8,Nationalist Congress Party
+2004,NCP,Telangana,0,1.1,54.78,9,1.8,Nationalist Congress Party
+2004,NCP,Kerala,0,2.09,54.99,9,1.8,Nationalist Congress Party
+2004,NCP,Jharkhand,0,1.87,59.14,9,1.8,Nationalist Congress Party
+2004,NCP,Assam,0,3.77,61.4,9,1.8,Nationalist Congress Party
+2004,NCP,Punjab,0,-0.57,61.49,9,1.8,Nationalist Congress Party
+2004,NCP,Chhattisgarh,0,2.98,56.73,9,1.8,Nationalist Congress Party
+2004,NCP,Haryana,0,3.15,54.23,9,1.8,Nationalist Congress Party
+2004,NCP,Uttarakhand,0,4.12,53.57,9,1.8,Nationalist Congress Party
+2004,NCP,Delhi,0,2.87,59.41,9,1.8,Nationalist Congress Party
+2004,Others,Uttar Pradesh,16,29.59,62.52,129,31.1,Other Parties
+2004,Others,Maharashtra,10,32.75,57.03,129,31.1,Other Parties
+2004,Others,West Bengal,6,28.16,58.54,129,31.1,Other Parties
+2004,Others,Bihar,16,30.31,56.67,129,31.1,Other Parties
+2004,Others,Tamil Nadu,8,31.22,57.51,129,31.1,Other Parties
+2004,Others,Madhya Pradesh,11,31.13,58.18,129,31.1,Other Parties
+2004,Others,Rajasthan,4,34.0,55.6,129,31.1,Other Parties
+2004,Others,Karnataka,3,32.08,59.05,129,31.1,Other Parties
+2004,Others,Andhra Pradesh,6,30.63,60.95,129,31.1,Other Parties
+2004,Others,Gujarat,4,33.02,59.59,129,31.1,Other Parties
+2004,Others,Odisha,5,30.85,55.67,129,31.1,Other Parties
+2004,Others,Telangana,5,31.18,56.31,129,31.1,Other Parties
+2004,Others,Kerala,6,34.07,57.45,129,31.1,Other Parties
+2004,Others,Jharkhand,5,30.17,53.65,129,31.1,Other Parties
+2004,Others,Assam,2,30.61,55.3,129,31.1,Other Parties
+2004,Others,Punjab,1,33.59,61.54,129,31.1,Other Parties
+2004,Others,Chhattisgarh,3,29.11,54.3,129,31.1,Other Parties
+2004,Others,Haryana,1,32.44,62.39,129,31.1,Other Parties
+2004,Others,Uttarakhand,1,28.81,58.22,129,31.1,Other Parties
+2004,Others,Delhi,1,30.35,59.31,129,31.1,Other Parties
+2009,INC,Uttar Pradesh,43,26.26,53.56,206,28.6,Indian National Congress (INC)
+2009,INC,Maharashtra,32,27.0,53.74,206,28.6,Indian National Congress (INC)
+2009,INC,West Bengal,11,25.83,57.12,206,28.6,Indian National Congress (INC)
+2009,INC,Bihar,23,27.65,57.64,206,28.6,Indian National Congress (INC)
+2009,INC,Tamil Nadu,20,28.65,61.81,206,28.6,Indian National Congress (INC)
+2009,INC,Madhya Pradesh,17,25.66,60.98,206,28.6,Indian National Congress (INC)
+2009,INC,Rajasthan,10,31.53,58.03,206,28.6,Indian National Congress (INC)
+2009,INC,Karnataka,18,30.13,55.69,206,28.6,Indian National Congress (INC)
+2009,INC,Andhra Pradesh,11,31.55,61.78,206,28.6,Indian National Congress (INC)
+2009,INC,Gujarat,6,29.84,56.66,206,28.6,Indian National Congress (INC)
+2009,INC,Odisha,4,28.02,55.55,206,28.6,Indian National Congress (INC)
+2009,INC,Telangana,10,27.62,61.48,206,28.6,Indian National Congress (INC)
+2009,INC,Kerala,3,27.45,55.61,206,28.6,Indian National Congress (INC)
+2009,INC,Jharkhand,4,26.01,55.07,206,28.6,Indian National Congress (INC)
+2009,INC,Assam,6,27.35,57.37,206,28.6,Indian National Congress (INC)
+2009,INC,Punjab,4,30.86,62.25,206,28.6,Indian National Congress (INC)
+2009,INC,Chhattisgarh,4,27.58,54.27,206,28.6,Indian National Congress (INC)
+2009,INC,Haryana,6,25.96,56.18,206,28.6,Indian National Congress (INC)
+2009,INC,Uttarakhand,1,27.52,54.84,206,28.6,Indian National Congress (INC)
+2009,INC,Delhi,4,26.33,59.55,206,28.6,Indian National Congress (INC)
+2009,BJP,Uttar Pradesh,11,16.22,62.29,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Maharashtra,7,20.73,58.65,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,West Bengal,5,21.53,55.67,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Bihar,13,16.81,61.74,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Tamil Nadu,4,18.87,60.89,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Madhya Pradesh,10,21.26,61.4,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Rajasthan,8,17.0,56.04,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Karnataka,5,18.06,57.13,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Andhra Pradesh,6,16.76,60.11,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Gujarat,3,17.66,58.23,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Odisha,6,20.24,59.66,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Telangana,2,19.08,54.07,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Kerala,4,18.28,53.6,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Jharkhand,2,21.53,62.74,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Assam,2,16.06,54.99,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Punjab,2,21.49,54.61,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Chhattisgarh,3,16.45,63.01,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Haryana,2,20.45,56.63,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Uttarakhand,1,16.95,54.66,116,18.8,Bharatiya Janata Party (BJP)
+2009,BJP,Delhi,2,21.31,62.07,116,18.8,Bharatiya Janata Party (BJP)
+2009,SP,Uttar Pradesh,4,5.05,53.89,23,3.2,Samajwadi Party
+2009,SP,Maharashtra,1,2.08,59.56,23,3.2,Samajwadi Party
+2009,SP,West Bengal,1,1.09,59.16,23,3.2,Samajwadi Party
+2009,SP,Bihar,2,2.49,54.52,23,3.2,Samajwadi Party
+2009,SP,Tamil Nadu,1,1.62,56.2,23,3.2,Samajwadi Party
+2009,SP,Madhya Pradesh,1,3.81,60.16,23,3.2,Samajwadi Party
+2009,SP,Rajasthan,1,5.14,55.24,23,3.2,Samajwadi Party
+2009,SP,Karnataka,1,5.01,55.0,23,3.2,Samajwadi Party
+2009,SP,Andhra Pradesh,0,5.5,56.63,23,3.2,Samajwadi Party
+2009,SP,Gujarat,1,0.35,60.1,23,3.2,Samajwadi Party
+2009,SP,Odisha,0,0.53,59.3,23,3.2,Samajwadi Party
+2009,SP,Telangana,0,2.52,54.01,23,3.2,Samajwadi Party
+2009,SP,Kerala,0,1.99,54.1,23,3.2,Samajwadi Party
+2009,SP,Jharkhand,0,0.24,58.04,23,3.2,Samajwadi Party
+2009,SP,Assam,0,2.05,62.46,23,3.2,Samajwadi Party
+2009,SP,Punjab,0,5.99,55.26,23,3.2,Samajwadi Party
+2009,SP,Chhattisgarh,0,3.48,62.04,23,3.2,Samajwadi Party
+2009,SP,Haryana,0,3.41,55.15,23,3.2,Samajwadi Party
+2009,SP,Uttarakhand,0,5.7,56.48,23,3.2,Samajwadi Party
+2009,SP,Delhi,0,4.76,56.59,23,3.2,Samajwadi Party
+2009,BSP,Uttar Pradesh,5,7.63,59.17,21,6.2,Bahujan Samaj Party
+2009,BSP,Maharashtra,3,3.5,55.77,21,6.2,Bahujan Samaj Party
+2009,BSP,West Bengal,1,4.56,60.64,21,6.2,Bahujan Samaj Party
+2009,BSP,Bihar,2,5.74,56.62,21,6.2,Bahujan Samaj Party
+2009,BSP,Tamil Nadu,2,5.87,58.09,21,6.2,Bahujan Samaj Party
+2009,BSP,Madhya Pradesh,1,8.66,58.89,21,6.2,Bahujan Samaj Party
+2009,BSP,Rajasthan,1,8.07,56.62,21,6.2,Bahujan Samaj Party
+2009,BSP,Karnataka,1,8.29,56.83,21,6.2,Bahujan Samaj Party
+2009,BSP,Andhra Pradesh,1,8.85,59.43,21,6.2,Bahujan Samaj Party
+2009,BSP,Gujarat,1,8.03,61.65,21,6.2,Bahujan Samaj Party
+2009,BSP,Odisha,0,3.51,57.22,21,6.2,Bahujan Samaj Party
+2009,BSP,Telangana,0,5.9,60.69,21,6.2,Bahujan Samaj Party
+2009,BSP,Kerala,0,7.01,55.06,21,6.2,Bahujan Samaj Party
+2009,BSP,Jharkhand,0,6.47,55.24,21,6.2,Bahujan Samaj Party
+2009,BSP,Assam,0,7.69,58.03,21,6.2,Bahujan Samaj Party
+2009,BSP,Punjab,0,9.0,60.35,21,6.2,Bahujan Samaj Party
+2009,BSP,Chhattisgarh,0,5.76,57.95,21,6.2,Bahujan Samaj Party
+2009,BSP,Haryana,0,6.35,60.27,21,6.2,Bahujan Samaj Party
+2009,BSP,Uttarakhand,0,5.88,54.43,21,6.2,Bahujan Samaj Party
+2009,BSP,Delhi,0,3.21,53.59,21,6.2,Bahujan Samaj Party
+2009,NCP,Uttar Pradesh,2,0.55,59.83,9,2.1,Nationalist Congress Party
+2009,NCP,Maharashtra,1,2.4,54.73,9,2.1,Nationalist Congress Party
+2009,NCP,West Bengal,1,2.7,60.51,9,2.1,Nationalist Congress Party
+2009,NCP,Bihar,0,4.95,58.94,9,2.1,Nationalist Congress Party
+2009,NCP,Tamil Nadu,0,2.99,53.88,9,2.1,Nationalist Congress Party
+2009,NCP,Madhya Pradesh,0,-0.18,56.48,9,2.1,Nationalist Congress Party
+2009,NCP,Rajasthan,0,2.68,57.14,9,2.1,Nationalist Congress Party
+2009,NCP,Karnataka,0,4.23,56.6,9,2.1,Nationalist Congress Party
+2009,NCP,Andhra Pradesh,0,-0.37,60.97,9,2.1,Nationalist Congress Party
+2009,NCP,Gujarat,0,0.19,57.5,9,2.1,Nationalist Congress Party
+2009,NCP,Odisha,0,3.34,58.55,9,2.1,Nationalist Congress Party
+2009,NCP,Telangana,0,0.28,55.32,9,2.1,Nationalist Congress Party
+2009,NCP,Kerala,0,1.03,58.8,9,2.1,Nationalist Congress Party
+2009,NCP,Jharkhand,0,3.1,57.55,9,2.1,Nationalist Congress Party
+2009,NCP,Assam,0,3.42,62.5,9,2.1,Nationalist Congress Party
+2009,NCP,Punjab,0,0.65,53.73,9,2.1,Nationalist Congress Party
+2009,NCP,Chhattisgarh,0,-0.17,56.23,9,2.1,Nationalist Congress Party
+2009,NCP,Haryana,0,2.49,59.21,9,2.1,Nationalist Congress Party
+2009,NCP,Uttarakhand,0,1.38,59.37,9,2.1,Nationalist Congress Party
+2009,NCP,Delhi,0,3.47,62.43,9,2.1,Nationalist Congress Party
+2009,CPM,Uttar Pradesh,3,5.85,55.12,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Maharashtra,1,6.04,59.22,16,5.3,Communist Party of India (Marxist)
+2009,CPM,West Bengal,1,5.47,56.54,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Bihar,1,3.49,61.25,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Tamil Nadu,0,2.81,57.56,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Madhya Pradesh,1,4.93,55.97,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Rajasthan,0,4.38,62.53,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Karnataka,1,5.31,56.48,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Andhra Pradesh,1,2.52,57.95,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Gujarat,0,7.82,53.32,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Odisha,0,6.74,58.05,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Telangana,0,8.13,58.38,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Kerala,0,3.72,58.03,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Jharkhand,0,2.75,54.26,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Assam,0,3.74,55.15,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Punjab,0,6.91,53.82,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Chhattisgarh,0,3.02,53.56,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Haryana,0,7.3,54.38,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Uttarakhand,0,4.93,61.64,16,5.3,Communist Party of India (Marxist)
+2009,CPM,Delhi,0,4.83,53.6,16,5.3,Communist Party of India (Marxist)
+2009,Others,Uttar Pradesh,24,36.27,58.91,152,35.8,Other Parties
+2009,Others,Maharashtra,12,34.69,54.27,152,35.8,Other Parties
+2009,Others,West Bengal,11,33.4,60.87,152,35.8,Other Parties
+2009,Others,Bihar,19,38.62,61.85,152,35.8,Other Parties
+2009,Others,Tamil Nadu,13,37.01,56.05,152,35.8,Other Parties
+2009,Others,Madhya Pradesh,10,35.53,58.02,152,35.8,Other Parties
+2009,Others,Rajasthan,10,34.49,56.38,152,35.8,Other Parties
+2009,Others,Karnataka,13,33.14,58.06,152,35.8,Other Parties
+2009,Others,Andhra Pradesh,11,36.46,58.66,152,35.8,Other Parties
+2009,Others,Gujarat,6,34.86,61.72,152,35.8,Other Parties
+2009,Others,Odisha,7,35.89,54.2,152,35.8,Other Parties
+2009,Others,Telangana,2,38.58,56.97,152,35.8,Other Parties
+2009,Others,Kerala,7,33.28,60.03,152,35.8,Other Parties
+2009,Others,Jharkhand,6,36.25,54.46,152,35.8,Other Parties
+2009,Others,Assam,4,37.4,57.26,152,35.8,Other Parties
+2009,Others,Punjab,5,36.69,62.19,152,35.8,Other Parties
+2009,Others,Chhattisgarh,4,33.59,56.3,152,35.8,Other Parties
+2009,Others,Haryana,2,38.25,60.8,152,35.8,Other Parties
+2009,Others,Uttarakhand,1,34.61,55.04,152,35.8,Other Parties
+2009,Others,Delhi,2,35.64,55.46,152,35.8,Other Parties
+2014,BJP,Uttar Pradesh,54,28.24,64.66,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Maharashtra,27,28.89,71.25,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,West Bengal,16,28.78,63.44,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Bihar,31,30.55,67.05,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Tamil Nadu,10,28.21,65.86,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Madhya Pradesh,23,33.31,62.27,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Rajasthan,15,33.48,65.28,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Karnataka,22,28.8,70.75,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Andhra Pradesh,19,33.65,68.17,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Gujarat,13,33.63,64.16,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Odisha,10,32.2,69.05,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Telangana,15,29.23,69.38,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Kerala,15,28.38,65.27,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Jharkhand,6,29.83,71.23,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Assam,9,32.31,71.17,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Punjab,6,32.81,65.75,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Chhattisgarh,9,29.08,70.88,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Haryana,4,29.96,68.96,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Uttarakhand,2,31.65,65.85,282,31.0,Bharatiya Janata Party (BJP)
+2014,BJP,Delhi,5,29.37,61.98,282,31.0,Bharatiya Janata Party (BJP)
+2014,INC,Uttar Pradesh,5,19.15,63.08,44,19.3,Indian National Congress (INC)
+2014,INC,Maharashtra,3,18.7,61.97,44,19.3,Indian National Congress (INC)
+2014,INC,West Bengal,4,21.61,62.92,44,19.3,Indian National Congress (INC)
+2014,INC,Bihar,4,20.29,65.59,44,19.3,Indian National Congress (INC)
+2014,INC,Tamil Nadu,4,18.76,66.45,44,19.3,Indian National Congress (INC)
+2014,INC,Madhya Pradesh,1,20.45,68.01,44,19.3,Indian National Congress (INC)
+2014,INC,Rajasthan,1,18.51,71.19,44,19.3,Indian National Congress (INC)
+2014,INC,Karnataka,2,19.31,70.5,44,19.3,Indian National Congress (INC)
+2014,INC,Andhra Pradesh,2,19.79,69.38,44,19.3,Indian National Congress (INC)
+2014,INC,Gujarat,3,19.04,66.15,44,19.3,Indian National Congress (INC)
+2014,INC,Odisha,1,22.1,68.37,44,19.3,Indian National Congress (INC)
+2014,INC,Telangana,0,21.48,66.21,44,19.3,Indian National Congress (INC)
+2014,INC,Kerala,0,19.6,65.57,44,19.3,Indian National Congress (INC)
+2014,INC,Jharkhand,1,17.52,69.66,44,19.3,Indian National Congress (INC)
+2014,INC,Assam,1,16.63,71.12,44,19.3,Indian National Congress (INC)
+2014,INC,Punjab,1,18.05,66.09,44,19.3,Indian National Congress (INC)
+2014,INC,Chhattisgarh,1,18.13,63.33,44,19.3,Indian National Congress (INC)
+2014,INC,Haryana,0,18.09,69.2,44,19.3,Indian National Congress (INC)
+2014,INC,Uttarakhand,0,17.66,63.06,44,19.3,Indian National Congress (INC)
+2014,INC,Delhi,0,21.94,64.83,44,19.3,Indian National Congress (INC)
+2014,AITC,Uttar Pradesh,8,3.71,63.19,34,3.8,All India Trinamool Congress
+2014,AITC,Maharashtra,4,3.56,68.5,34,3.8,All India Trinamool Congress
+2014,AITC,West Bengal,4,1.1,62.37,34,3.8,All India Trinamool Congress
+2014,AITC,Bihar,3,2.49,63.24,34,3.8,All India Trinamool Congress
+2014,AITC,Tamil Nadu,1,0.93,69.14,34,3.8,All India Trinamool Congress
+2014,AITC,Madhya Pradesh,1,3.61,67.46,34,3.8,All India Trinamool Congress
+2014,AITC,Rajasthan,1,0.96,69.24,34,3.8,All India Trinamool Congress
+2014,AITC,Karnataka,0,5.37,70.33,34,3.8,All India Trinamool Congress
+2014,AITC,Andhra Pradesh,1,4.01,66.17,34,3.8,All India Trinamool Congress
+2014,AITC,Gujarat,1,6.12,70.34,34,3.8,All India Trinamool Congress
+2014,AITC,Odisha,1,4.49,70.67,34,3.8,All India Trinamool Congress
+2014,AITC,Telangana,1,3.85,65.93,34,3.8,All India Trinamool Congress
+2014,AITC,Kerala,1,6.55,62.83,34,3.8,All India Trinamool Congress
+2014,AITC,Jharkhand,1,2.5,64.19,34,3.8,All India Trinamool Congress
+2014,AITC,Assam,0,6.79,61.95,34,3.8,All India Trinamool Congress
+2014,AITC,Punjab,1,1.3,62.95,34,3.8,All India Trinamool Congress
+2014,AITC,Chhattisgarh,0,3.86,63.99,34,3.8,All India Trinamool Congress
+2014,AITC,Haryana,0,1.32,64.43,34,3.8,All India Trinamool Congress
+2014,AITC,Uttarakhand,0,6.47,64.75,34,3.8,All India Trinamool Congress
+2014,AITC,Delhi,0,6.26,61.46,34,3.8,All India Trinamool Congress
+2014,SP,Uttar Pradesh,1,6.09,62.31,5,3.4,Samajwadi Party
+2014,SP,Maharashtra,0,6.16,66.78,5,3.4,Samajwadi Party
+2014,SP,West Bengal,0,1.95,65.9,5,3.4,Samajwadi Party
+2014,SP,Bihar,0,4.8,71.35,5,3.4,Samajwadi Party
+2014,SP,Tamil Nadu,0,3.63,66.73,5,3.4,Samajwadi Party
+2014,SP,Madhya Pradesh,0,1.41,71.17,5,3.4,Samajwadi Party
+2014,SP,Rajasthan,0,3.39,67.43,5,3.4,Samajwadi Party
+2014,SP,Karnataka,0,3.66,68.35,5,3.4,Samajwadi Party
+2014,SP,Andhra Pradesh,0,6.34,67.51,5,3.4,Samajwadi Party
+2014,SP,Gujarat,0,5.03,63.1,5,3.4,Samajwadi Party
+2014,SP,Odisha,0,2.48,65.72,5,3.4,Samajwadi Party
+2014,SP,Telangana,0,3.31,69.34,5,3.4,Samajwadi Party
+2014,SP,Kerala,0,2.45,69.5,5,3.4,Samajwadi Party
+2014,SP,Jharkhand,0,1.75,66.45,5,3.4,Samajwadi Party
+2014,SP,Assam,0,0.45,67.88,5,3.4,Samajwadi Party
+2014,SP,Punjab,0,3.07,71.07,5,3.4,Samajwadi Party
+2014,SP,Chhattisgarh,0,5.58,62.79,5,3.4,Samajwadi Party
+2014,SP,Haryana,0,5.61,67.23,5,3.4,Samajwadi Party
+2014,SP,Uttarakhand,0,2.63,62.32,5,3.4,Samajwadi Party
+2014,SP,Delhi,0,2.77,70.07,5,3.4,Samajwadi Party
+2014,AIADMK,Uttar Pradesh,4,6.1,70.98,37,3.3,All India Anna DMK
+2014,AIADMK,Maharashtra,2,2.39,70.36,37,3.3,All India Anna DMK
+2014,AIADMK,West Bengal,5,2.96,64.61,37,3.3,All India Anna DMK
+2014,AIADMK,Bihar,3,4.43,64.13,37,3.3,All India Anna DMK
+2014,AIADMK,Tamil Nadu,3,0.61,61.89,37,3.3,All India Anna DMK
+2014,AIADMK,Madhya Pradesh,1,2.42,64.56,37,3.3,All India Anna DMK
+2014,AIADMK,Rajasthan,1,2.22,63.32,37,3.3,All India Anna DMK
+2014,AIADMK,Karnataka,1,6.15,65.51,37,3.3,All India Anna DMK
+2014,AIADMK,Andhra Pradesh,1,3.76,71.23,37,3.3,All India Anna DMK
+2014,AIADMK,Gujarat,1,4.39,68.56,37,3.3,All India Anna DMK
+2014,AIADMK,Odisha,1,0.83,68.17,37,3.3,All India Anna DMK
+2014,AIADMK,Telangana,0,3.88,68.8,37,3.3,All India Anna DMK
+2014,AIADMK,Kerala,1,5.35,61.7,37,3.3,All India Anna DMK
+2014,AIADMK,Jharkhand,1,3.06,63.58,37,3.3,All India Anna DMK
+2014,AIADMK,Assam,0,6.02,62.13,37,3.3,All India Anna DMK
+2014,AIADMK,Punjab,0,2.39,67.6,37,3.3,All India Anna DMK
+2014,AIADMK,Chhattisgarh,0,1.05,64.3,37,3.3,All India Anna DMK
+2014,AIADMK,Haryana,0,1.58,65.51,37,3.3,All India Anna DMK
+2014,AIADMK,Uttarakhand,0,1.6,65.07,37,3.3,All India Anna DMK
+2014,AIADMK,Delhi,0,6.16,70.95,37,3.3,All India Anna DMK
+2014,TDP,Uttar Pradesh,3,1.05,62.08,16,2.6,Telugu Desam Party
+2014,TDP,Maharashtra,1,1.2,66.46,16,2.6,Telugu Desam Party
+2014,TDP,West Bengal,1,4.75,69.85,16,2.6,Telugu Desam Party
+2014,TDP,Bihar,1,3.72,64.53,16,2.6,Telugu Desam Party
+2014,TDP,Tamil Nadu,0,3.81,61.5,16,2.6,Telugu Desam Party
+2014,TDP,Madhya Pradesh,0,1.58,68.33,16,2.6,Telugu Desam Party
+2014,TDP,Rajasthan,1,1.42,69.52,16,2.6,Telugu Desam Party
+2014,TDP,Karnataka,0,2.28,68.67,16,2.6,Telugu Desam Party
+2014,TDP,Andhra Pradesh,1,5.52,63.65,16,2.6,Telugu Desam Party
+2014,TDP,Gujarat,1,3.26,70.55,16,2.6,Telugu Desam Party
+2014,TDP,Odisha,0,4.11,67.08,16,2.6,Telugu Desam Party
+2014,TDP,Telangana,0,2.45,64.74,16,2.6,Telugu Desam Party
+2014,TDP,Kerala,0,4.93,67.09,16,2.6,Telugu Desam Party
+2014,TDP,Jharkhand,0,2.71,61.91,16,2.6,Telugu Desam Party
+2014,TDP,Assam,0,2.55,64.5,16,2.6,Telugu Desam Party
+2014,TDP,Punjab,0,2.62,64.63,16,2.6,Telugu Desam Party
+2014,TDP,Chhattisgarh,0,2.38,62.73,16,2.6,Telugu Desam Party
+2014,TDP,Haryana,0,4.81,68.48,16,2.6,Telugu Desam Party
+2014,TDP,Uttarakhand,0,4.26,69.48,16,2.6,Telugu Desam Party
+2014,TDP,Delhi,0,0.28,67.84,16,2.6,Telugu Desam Party
+2014,Others,Uttar Pradesh,29,37.06,67.86,125,36.6,Other Parties
+2014,Others,Maharashtra,12,36.77,61.74,125,36.6,Other Parties
+2014,Others,West Bengal,12,34.09,65.75,125,36.6,Other Parties
+2014,Others,Bihar,8,36.87,62.73,125,36.6,Other Parties
+2014,Others,Tamil Nadu,12,38.37,63.03,125,36.6,Other Parties
+2014,Others,Madhya Pradesh,4,34.47,70.17,125,36.6,Other Parties
+2014,Others,Rajasthan,6,36.4,62.47,125,36.6,Other Parties
+2014,Others,Karnataka,8,38.81,69.68,125,36.6,Other Parties
+2014,Others,Andhra Pradesh,7,34.05,62.52,125,36.6,Other Parties
+2014,Others,Gujarat,3,35.14,62.76,125,36.6,Other Parties
+2014,Others,Odisha,4,35.91,70.83,125,36.6,Other Parties
+2014,Others,Telangana,5,38.61,68.5,125,36.6,Other Parties
+2014,Others,Kerala,2,38.02,64.15,125,36.6,Other Parties
+2014,Others,Jharkhand,4,35.65,71.38,125,36.6,Other Parties
+2014,Others,Assam,2,35.27,70.71,125,36.6,Other Parties
+2014,Others,Punjab,1,37.78,68.65,125,36.6,Other Parties
+2014,Others,Chhattisgarh,4,39.45,71.16,125,36.6,Other Parties
+2014,Others,Haryana,1,38.53,67.86,125,36.6,Other Parties
+2014,Others,Uttarakhand,1,34.37,67.9,125,36.6,Other Parties
+2014,Others,Delhi,2,39.07,65.79,125,36.6,Other Parties
+2019,BJP,Uttar Pradesh,24,36.57,70.66,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Maharashtra,37,37.16,62.95,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,West Bengal,24,37.21,71.69,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Bihar,29,36.27,67.65,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Tamil Nadu,12,40.24,66.0,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Madhya Pradesh,18,36.53,69.23,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Rajasthan,18,38.69,65.08,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Karnataka,14,35.15,68.96,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Andhra Pradesh,7,37.99,71.1,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Gujarat,24,37.09,66.99,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Odisha,7,38.42,70.61,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Telangana,7,36.93,70.79,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Kerala,18,35.86,67.91,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Jharkhand,5,35.01,71.51,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Assam,12,38.96,62.89,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Punjab,11,37.03,65.82,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Chhattisgarh,7,34.95,69.97,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Haryana,7,35.52,64.28,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Uttarakhand,2,34.74,68.28,303,37.4,Bharatiya Janata Party (BJP)
+2019,BJP,Delhi,6,34.5,62.89,303,37.4,Bharatiya Janata Party (BJP)
+2019,INC,Uttar Pradesh,9,21.42,65.67,52,19.5,Indian National Congress (INC)
+2019,INC,Maharashtra,4,20.08,65.14,52,19.5,Indian National Congress (INC)
+2019,INC,West Bengal,2,20.91,68.66,52,19.5,Indian National Congress (INC)
+2019,INC,Bihar,4,20.95,69.15,52,19.5,Indian National Congress (INC)
+2019,INC,Tamil Nadu,2,18.61,63.66,52,19.5,Indian National Congress (INC)
+2019,INC,Madhya Pradesh,1,20.56,70.99,52,19.5,Indian National Congress (INC)
+2019,INC,Rajasthan,4,20.27,64.24,52,19.5,Indian National Congress (INC)
+2019,INC,Karnataka,1,21.38,68.19,52,19.5,Indian National Congress (INC)
+2019,INC,Andhra Pradesh,3,21.19,69.43,52,19.5,Indian National Congress (INC)
+2019,INC,Gujarat,3,16.84,69.88,52,19.5,Indian National Congress (INC)
+2019,INC,Odisha,3,18.22,68.8,52,19.5,Indian National Congress (INC)
+2019,INC,Telangana,1,22.25,62.73,52,19.5,Indian National Congress (INC)
+2019,INC,Kerala,2,17.5,69.52,52,19.5,Indian National Congress (INC)
+2019,INC,Jharkhand,0,17.91,67.34,52,19.5,Indian National Congress (INC)
+2019,INC,Assam,2,17.77,63.84,52,19.5,Indian National Congress (INC)
+2019,INC,Punjab,1,19.5,71.52,52,19.5,Indian National Congress (INC)
+2019,INC,Chhattisgarh,0,20.38,64.73,52,19.5,Indian National Congress (INC)
+2019,INC,Haryana,0,20.6,68.34,52,19.5,Indian National Congress (INC)
+2019,INC,Uttarakhand,0,18.36,66.88,52,19.5,Indian National Congress (INC)
+2019,INC,Delhi,0,22.4,65.32,52,19.5,Indian National Congress (INC)
+2019,DMK,Uttar Pradesh,2,1.43,68.05,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Maharashtra,1,4.79,65.06,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,West Bengal,2,-0.08,68.97,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Bihar,2,0.31,72.08,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Tamil Nadu,1,4.97,69.17,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Madhya Pradesh,1,0.43,65.44,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Rajasthan,0,0.16,63.45,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Karnataka,1,4.07,63.81,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Andhra Pradesh,0,3.16,64.37,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Gujarat,0,0.3,71.64,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Odisha,1,1.42,68.96,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Telangana,0,3.36,69.23,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Kerala,1,0.9,62.79,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Jharkhand,0,4.65,68.09,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Assam,0,5.25,64.04,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Punjab,0,3.35,72.2,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Chhattisgarh,0,3.42,64.84,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Haryana,0,-0.06,70.21,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Uttarakhand,0,1.6,68.71,23,2.3,Dravida Munnetra Kazhagam
+2019,DMK,Delhi,0,1.93,65.5,23,2.3,Dravida Munnetra Kazhagam
+2019,AITC,Uttar Pradesh,4,6.72,71.81,22,4.1,All India Trinamool Congress
+2019,AITC,Maharashtra,1,6.35,69.77,22,4.1,All India Trinamool Congress
+2019,AITC,West Bengal,1,1.5,65.08,22,4.1,All India Trinamool Congress
+2019,AITC,Bihar,2,4.9,69.61,22,4.1,All India Trinamool Congress
+2019,AITC,Tamil Nadu,1,5.42,62.68,22,4.1,All India Trinamool Congress
+2019,AITC,Madhya Pradesh,1,4.86,63.86,22,4.1,All India Trinamool Congress
+2019,AITC,Rajasthan,1,2.51,68.92,22,4.1,All India Trinamool Congress
+2019,AITC,Karnataka,1,4.68,63.47,22,4.1,All India Trinamool Congress
+2019,AITC,Andhra Pradesh,0,6.56,65.1,22,4.1,All India Trinamool Congress
+2019,AITC,Gujarat,1,7.1,64.51,22,4.1,All India Trinamool Congress
+2019,AITC,Odisha,0,5.08,72.05,22,4.1,All India Trinamool Congress
+2019,AITC,Telangana,1,4.12,70.35,22,4.1,All India Trinamool Congress
+2019,AITC,Kerala,0,6.96,72.04,22,4.1,All India Trinamool Congress
+2019,AITC,Jharkhand,0,2.9,63.4,22,4.1,All India Trinamool Congress
+2019,AITC,Assam,0,6.0,66.18,22,4.1,All India Trinamool Congress
+2019,AITC,Punjab,0,3.15,72.21,22,4.1,All India Trinamool Congress
+2019,AITC,Chhattisgarh,0,3.6,64.07,22,4.1,All India Trinamool Congress
+2019,AITC,Haryana,0,6.03,65.21,22,4.1,All India Trinamool Congress
+2019,AITC,Uttarakhand,0,1.44,63.6,22,4.1,All India Trinamool Congress
+2019,AITC,Delhi,0,6.67,67.37,22,4.1,All India Trinamool Congress
+2019,YSRCP,Uttar Pradesh,5,2.18,69.49,22,2.5,YSR Congress Party
+2019,YSRCP,Maharashtra,2,0.54,66.01,22,2.5,YSR Congress Party
+2019,YSRCP,West Bengal,2,-0.08,66.02,22,2.5,YSR Congress Party
+2019,YSRCP,Bihar,1,5.48,67.15,22,2.5,YSR Congress Party
+2019,YSRCP,Tamil Nadu,2,2.09,70.36,22,2.5,YSR Congress Party
+2019,YSRCP,Madhya Pradesh,1,4.82,66.51,22,2.5,YSR Congress Party
+2019,YSRCP,Rajasthan,1,3.28,66.57,22,2.5,YSR Congress Party
+2019,YSRCP,Karnataka,0,0.06,62.57,22,2.5,YSR Congress Party
+2019,YSRCP,Andhra Pradesh,1,0.92,64.52,22,2.5,YSR Congress Party
+2019,YSRCP,Gujarat,1,1.42,67.46,22,2.5,YSR Congress Party
+2019,YSRCP,Odisha,0,5.26,70.92,22,2.5,YSR Congress Party
+2019,YSRCP,Telangana,1,1.94,70.02,22,2.5,YSR Congress Party
+2019,YSRCP,Kerala,0,-0.45,62.6,22,2.5,YSR Congress Party
+2019,YSRCP,Jharkhand,0,2.23,67.58,22,2.5,YSR Congress Party
+2019,YSRCP,Assam,0,2.04,69.58,22,2.5,YSR Congress Party
+2019,YSRCP,Punjab,0,3.89,64.73,22,2.5,YSR Congress Party
+2019,YSRCP,Chhattisgarh,0,3.03,64.51,22,2.5,YSR Congress Party
+2019,YSRCP,Haryana,0,3.27,70.7,22,2.5,YSR Congress Party
+2019,YSRCP,Uttarakhand,0,1.05,71.07,22,2.5,YSR Congress Party
+2019,YSRCP,Delhi,0,2.19,67.28,22,2.5,YSR Congress Party
+2019,SS,Uttar Pradesh,2,2.86,65.99,18,2.1,Shiv Sena
+2019,SS,Maharashtra,2,1.98,67.26,18,2.1,Shiv Sena
+2019,SS,West Bengal,1,4.6,70.41,18,2.1,Shiv Sena
+2019,SS,Bihar,1,3.41,68.26,18,2.1,Shiv Sena
+2019,SS,Tamil Nadu,1,0.25,67.04,18,2.1,Shiv Sena
+2019,SS,Madhya Pradesh,0,4.59,65.75,18,2.1,Shiv Sena
+2019,SS,Rajasthan,1,2.3,68.72,18,2.1,Shiv Sena
+2019,SS,Karnataka,1,-0.12,66.16,18,2.1,Shiv Sena
+2019,SS,Andhra Pradesh,0,2.84,66.87,18,2.1,Shiv Sena
+2019,SS,Gujarat,1,0.42,64.05,18,2.1,Shiv Sena
+2019,SS,Odisha,0,4.66,69.5,18,2.1,Shiv Sena
+2019,SS,Telangana,0,2.2,63.24,18,2.1,Shiv Sena
+2019,SS,Kerala,1,3.1,65.25,18,2.1,Shiv Sena
+2019,SS,Jharkhand,0,-0.24,72.06,18,2.1,Shiv Sena
+2019,SS,Assam,0,2.99,64.85,18,2.1,Shiv Sena
+2019,SS,Punjab,0,3.76,69.13,18,2.1,Shiv Sena
+2019,SS,Chhattisgarh,0,4.45,63.19,18,2.1,Shiv Sena
+2019,SS,Haryana,0,0.59,72.28,18,2.1,Shiv Sena
+2019,SS,Uttarakhand,0,3.5,69.25,18,2.1,Shiv Sena
+2019,SS,Delhi,0,0.53,65.21,18,2.1,Shiv Sena
+2019,JDU,Uttar Pradesh,2,-0.09,62.6,16,1.5,Janata Dal (United)
+2019,JDU,Maharashtra,2,4.29,65.82,16,1.5,Janata Dal (United)
+2019,JDU,West Bengal,1,-1.46,69.2,16,1.5,Janata Dal (United)
+2019,JDU,Bihar,1,-0.62,64.0,16,1.5,Janata Dal (United)
+2019,JDU,Tamil Nadu,1,2.2,62.85,16,1.5,Janata Dal (United)
+2019,JDU,Madhya Pradesh,1,0.35,66.09,16,1.5,Janata Dal (United)
+2019,JDU,Rajasthan,1,3.37,66.4,16,1.5,Janata Dal (United)
+2019,JDU,Karnataka,1,0.94,70.12,16,1.5,Janata Dal (United)
+2019,JDU,Andhra Pradesh,0,3.89,71.48,16,1.5,Janata Dal (United)
+2019,JDU,Gujarat,0,4.12,70.66,16,1.5,Janata Dal (United)
+2019,JDU,Odisha,0,-0.29,70.45,16,1.5,Janata Dal (United)
+2019,JDU,Telangana,0,0.23,71.92,16,1.5,Janata Dal (United)
+2019,JDU,Kerala,0,-0.6,67.78,16,1.5,Janata Dal (United)
+2019,JDU,Jharkhand,0,2.37,62.57,16,1.5,Janata Dal (United)
+2019,JDU,Assam,0,-1.23,63.83,16,1.5,Janata Dal (United)
+2019,JDU,Punjab,0,1.9,71.72,16,1.5,Janata Dal (United)
+2019,JDU,Chhattisgarh,0,3.44,62.53,16,1.5,Janata Dal (United)
+2019,JDU,Haryana,0,1.26,67.39,16,1.5,Janata Dal (United)
+2019,JDU,Uttarakhand,0,2.61,67.43,16,1.5,Janata Dal (United)
+2019,JDU,Delhi,0,1.41,63.89,16,1.5,Janata Dal (United)
+2019,Others,Uttar Pradesh,17,28.63,71.12,87,30.6,Other Parties
+2019,Others,Maharashtra,9,28.54,72.02,87,30.6,Other Parties
+2019,Others,West Bengal,7,28.04,68.67,87,30.6,Other Parties
+2019,Others,Bihar,5,32.42,70.58,87,30.6,Other Parties
+2019,Others,Tamil Nadu,11,30.61,66.95,87,30.6,Other Parties
+2019,Others,Madhya Pradesh,6,28.39,67.87,87,30.6,Other Parties
+2019,Others,Rajasthan,4,28.14,66.58,87,30.6,Other Parties
+2019,Others,Karnataka,7,32.74,63.39,87,30.6,Other Parties
+2019,Others,Andhra Pradesh,2,29.18,71.15,87,30.6,Other Parties
+2019,Others,Gujarat,2,31.92,63.41,87,30.6,Other Parties
+2019,Others,Odisha,4,29.74,70.29,87,30.6,Other Parties
+2019,Others,Telangana,2,31.44,64.76,87,30.6,Other Parties
+2019,Others,Kerala,4,32.84,63.67,87,30.6,Other Parties
+2019,Others,Jharkhand,3,31.16,63.67,87,30.6,Other Parties
+2019,Others,Assam,2,28.57,69.4,87,30.6,Other Parties
+2019,Others,Punjab,3,28.23,67.46,87,30.6,Other Parties
+2019,Others,Chhattisgarh,2,33.22,67.54,87,30.6,Other Parties
+2019,Others,Haryana,2,30.81,66.34,87,30.6,Other Parties
+2019,Others,Uttarakhand,1,30.56,67.12,87,30.6,Other Parties
+2019,Others,Delhi,1,32.68,70.72,87,30.6,Other Parties
